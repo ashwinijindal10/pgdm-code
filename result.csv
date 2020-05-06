@@ -1,0 +1,197 @@
+,Unnamed: 0_x,file_name,Unnamed: 0_y,id,title
+0,0,"111247 Control Structures and Functions(Map, Filter, and Reduce 1)",,,
+1,1,"111247 Control Structures and Functions(Map, Filter, and Reduce 2)",,,
+2,2,"111247 Control Structures and Functions(Map, Filter, and Reduce 3)",,,
+3,3,221235 Introduction to Jupyter Notebook I,24.0,k334a7JDKkU,221235 Introduction to Jupyter Notebook I
+4,4,221235 Introduction to Jupyter Notebook II,23.0,umrOlLf953o,221235 Introduction to Jupyter Notebook II
+5,5,221236 Python Basic I,20.0,ODmj2q6xwRA,221236 Python Basic I
+6,6,221236 Python Basic II(Str),,,
+7,7,221236 Python Basic III (Array),,,
+8,8,221236 Python Basic IV (List),,,
+9,9,221236 Python Basic V (List2),,,
+10,10,221236 Python Basic VII (Sets),,,
+11,11,221238 Python Basic VI (Touples),,,
+12,12,221239 Python Basic V (Dict),,,
+13,13,221239 Python Basic VI (Dict),,,
+14,14,"221243 Control Structures and Functions(If ,Elif ,Else)",,,
+15,15,221244 Control Structures and Functions(Loops 2),,,
+16,16,221244 Control Structures and Functions(Loops),,,
+17,17,221245 Control Structures and Functions(Comprehensions 2),,,
+18,18,221245 Control Structures and Functions(Comprehensions),,,
+19,19,221246 Control Structures and Functions (Func 1),,,
+20,20,221246 Control Structures and Functions (Func 2),,,
+21,21,221246 Control Structures and Functions (Func 3),,,
+22,22,221252 NumPy Basics 1,25.0,UCMvhggV5g4,221252 NumPy Basics 1
+23,23,221252 NumPy Basics 2,21.0,INojwGCTCBQ,221252 NumPy Basics 2
+24,24,221252 NumPy Basics 3,17.0,GmtSwaxroQg,221252 NumPy Basics 3
+25,25,221253 Creating NumPy Array,,,
+26,26,221254 Structure and Content of Array,,,
+27,27,"221255 Subset, Slice, Index and Iterate through Array",,,
+28,28,221256 Multidimensional Array,,,
+29,29,221257 Computation Times in NumPy and Standard Python Li,,,
+30,30,221260 Basic Array Operation,,,
+31,31,221261 Operations on Array,,,
+32,32,221262 Basic Linear Algebra Operation,,,
+33,33,221265 Pandas Basics 1,22.0,Zlr2601d2JY,221265 Pandas Basics 1
+34,34,221265 Pandas Basics 2,16.0,T962f8493dc,221265 Pandas Basics 2
+35,35,221265 Pandas Basics 3,8.0,w4IZFbCuoEs,221265 Pandas Basics 3
+36,36,221266 Indexing and Selecting Data 1,49.0,OWi9BQEVXFk,221266 Indexing and Selecting Data 1
+37,37,221266 Indexing and Selecting Data 2,34.0,NFo6YgwH9bc,221266 Indexing and Selecting Data 2
+38,38,221266 Indexing and Selecting Data 3,23.0,H2qemIXC_xA,221266 Indexing and Selecting Data 3
+39,39,221267 Merge and Append 1,21.0,VoSqPqq7G0o,221267 Merge and Append 1
+40,40,221267 Merge and Append 2,16.0,6i9Bry2Pf74,221267 Merge and Append 2
+41,41,221268 Grouping and Summarizing Dataframes 1,15.0,Y2IUO52_0HE,221268 Grouping and Summarizing Dataframes 1
+42,42,221268 Grouping and Summarizing Dataframes 2,12.0,MKl1VQuOOEc,221268 Grouping and Summarizing Dataframes 2
+43,43,221269 Lambda function & Pivot tables 1,10.0,9vBiQUaKqTA,221269 Lambda function & Pivot tables 1
+44,44,221269 Lambda function & Pivot tables 2,9.0,gc6HbHl6ez0,221269 Lambda function & Pivot tables 2
+45,45,221269 Lambda function & Pivot tables 3,8.0,0bUg7yeWk-0,221269 Lambda function & Pivot tables 3
+46,46,221272 Reading Delimited and Relational Database,,,
+47,47,221273 Reading Data From Website,,,
+48,48,221274 Getting Data From API,,,
+49,49,221275 Reading Data From PDF File,,,
+50,50,221276 Cleaning Datasets 1,30.0,UfHbQGEMbxw,221276 Cleaning Datasets 1
+51,51,221276 Cleaning Datasets 2,25.0,ypggaRDFowU,221276 Cleaning Datasets 2
+52,52,221276 Cleaning Datasets 3,19.0,KZPc-f8BFUw,221276 Cleaning Datasets 3
+53,53,221276 Cleaning Datasets 4,13.0,vJLZjeFm0n4,221276 Cleaning Datasets 4
+54,54,221313 Data Visualisation Examples 1,7.0,C89FJrRqL6A,221313 Data Visualisation Examples 1
+55,55,221313 Data Visualisation Examples 2,6.0,2HYrVQpMk3c,221313 Data Visualisation Examples 2
+56,56,221313 Data Visualisation Examples 3,4.0,UD1Eo3tal-0,221313 Data Visualisation Examples 3
+57,57,221314 Visualisations   The World of Imagery,2.0,lXXznd4d2M0,221314 Visualisations   The World of Imagery
+58,58,221315 Understanding Basic Chart Types I,0.0,LR_N8OKuoCM,221315 Understanding Basic Chart Types I
+59,59,221316 Understanding Basic Chart Types II,48.0,brNaaAoMx08,221316 Understanding Basic Chart Types II
+60,60,221319 Data Visualisation Toolki,,,
+61,61,221320 Components of a Plo,,,
+62,62,221321 Sub Plo,,,
+63,63,221322 Functionalities of Plo,,,
+64,64,221325 Univariate Distribution,,,
+65,65,221326 Univariate Distributions   Rug Plo,,,
+66,66,221327 Bivariate Distribution,,,
+67,67,221328 Bivariate Distributions   Plotting Pairwise Relationship,,,
+68,68,221331 Plotting Distributions Across Categories 1,43.0,G6iLDoLtpgM,221331 Plotting Distributions Across Categories 1
+69,69,221331 Plotting Distributions Across Categories 2,38.0,Ars8YPBaWLM,221331 Plotting Distributions Across Categories 2
+70,70,221332 Plotting Aggregate Values Across Categories 1,,,
+71,71,221332 Plotting Aggregate Values Across Categories 2,,,
+72,72,221333 Time Series Data 1,,,
+73,73,221333 Time Series Data 2,,,
+74,74,221337 An introduction to RDBMS and SQL 1,49.0,sBtlDiBl5Nc,221337 An introduction to RDBMS and SQL 1
+75,75,221337 An introduction to RDBMS and SQL 2,37.0,VWnOGSFeW5M,221337 An introduction to RDBMS and SQL 2
+76,76,221338 Basics of SQL 1,29.0,k_TRkVLMZYM,221338 Basics of SQL 1
+77,77,221338 Basics of SQL 2,25.0,6ljy8L8Dwoo,221338 Basics of SQL 2
+78,78,221338 Basics of SQL 3,24.0,cwUeQqBk4lQ,221338 Basics of SQL 3
+79,79,221339 Data Retrieval with SQL 1,23.0,LaCD4aNaagw,221339 Data Retrieval with SQL 1
+80,80,221339 Data Retrieval with SQL 2,21.0,6ZhFqjJmkPA,221339 Data Retrieval with SQL 2
+81,81,221340 Compound Functions and Relational Operator,,,
+82,82,221341 Pattern Matching with Wildcard,,,
+83,83,221342 Basics of Sorting,10.0,FBUxHauIdzc,221342 Basics of Sorting
+84,84,221346 Order by Clause,7.0,YwEIBN_H8nA,221346 Order by Clause
+85,85,221347 Aggregate Function,,,
+86,86,221348 Group by Clause,41.0,KUlpfByJ4nw,221348 Group by Clause
+87,87,221349 Having Clause,6.0,Wxh1GC6nFh8,221349 Having Clause
+88,88,221350 Nested Querie,,,
+89,89,221351 Inner Join,1.0,srRpxEpg0cE,221351 Inner Join
+90,90,221352 Multi Join,49.0,LbL3YU4tzJQ,221352 Multi Join
+91,91,221353 Outer Join,32.0,TZpDjo3d6As,221353 Outer Join
+92,92,1 221391  Defining Data Warehouse,44.0,aVicpWfvdns,1 221391  Defining Data Warehouse
+93,93,2 221388 Star Schema,31.0,0m9RczP_rGE,2 221388 Star Schema
+94,94,3 221387 Structure of Data Warehouse,28.0,awAsfnBs1cM,3 221387 Structure of Data Warehouse
+95,95,4 221385 OLAP vs. OLTP,,,
+96,96,6 221389 How to Use a Star Schema   A Demonstration,20.0,Eswivm6vt1k,6 221389 How to Use a Star Schema   A Demonstration
+97,97,7 221390 Data Warehouse Schema  Industry Example,18.0,PpiAAQ-tZRQ,7 221390 Data Warehouse Schema  Industry Example
+98,98,221358 Adding and Deleting Column,,,
+99,99,221360 Changing Constraints (Primary key),,,
+100,100,221361 Changing Constraints (Foreign key),,,
+101,101,221362 String Manipulation,9.0,nqX1lg5KRZ0,221362 String Manipulation
+102,102,221367 Introduction to Windowing Function,,,
+103,103,221368 Frame,,,
+104,104,221369 Named Window,,,
+105,105,221373 Introduction to User defined Function,,,
+106,106,221374 User defined functions (Application),,,
+107,107,221375 Introduction to Stored Procedure,,,
+108,108,221376 Stored Procedures (Application),,,
+109,109,221379 Optimisation in Select Clause,5.0,tkQQWDBe_uQ,221379 Optimisation in Select Clause
+110,110,221380 Optimisation in Where Clause,4.0,bgdDrPFfyJ8,221380 Optimisation in Where Clause
+111,111,221381 Optimisation in Group by and Order by,2.0,UcMgs76h9dM,221381 Optimisation in Group by and Order by
+112,112,221383 Optimisation in Join,,,
+113,113,221383 Optimisation in Window Function,48.0,yqvtY7ESjh0,221383 Optimisation in Window Function
+114,114,278019 Deep Learning,47.0,GEpip1otvAE,278019 Deep Learning
+115,115,278020 Graphical Model,,,
+116,116,278021 Reinforcement Learning,45.0,B8Z3uATQ9vM,278021 Reinforcement Learning
+117,117,697988 ML vs AI,44.0,m0q74FyxDJw,697988 ML vs AI
+118,118,Succeeding with PGDML & AI,43.0,syhEEw5QPqY,Succeeding with PGDML & AI
+119,119,278063 The CRISP DM Framework lifecycle,42.0,LmtMa5UNL6s,278063 The CRISP DM Framework lifecycle
+120,120,278063 The CRISP DM Framework,41.0,8VZOTPXNUlg,278063 The CRISP DM Framework
+121,121,278065 The CRISP DM Framework(Understanding Raw Data),,,
+122,122,278066 The CRISP DM Framework(Preparing Data for Analysis),,,
+123,123,278067 The CRISP DM Framework(Modelling),,,
+124,124,278068 The CRISP DM Framework(Model Evaluation and Deployment),,,
+125,125,278077 Basics of Probability (Introduction  Inferential Statistics),,,
+126,126,278079 Basics of Probability(Random Variables),,,
+127,127,278079 Basics of Probability(Random Variables 2),,,
+128,128,278080 Basics of Probability(Probability Distributions   I),,,
+129,129,278082 Basics of Probability(Expected Value   I) 1,,,
+130,130,278082 Basics of Probability(Expected Value   I) 2,,,
+131,131,"Counting, permutations, and combination",,,
+132,132,278197 Power Law,34.0,LtgeyC1o0r4,278197 Power Law
+133,133,278198 Election Data Case Study I,35.0,9ZEhxo04uU8,278198 Election Data Case Study I
+134,134,278198 Election Data Case Study II,36.0,9ZIbSiZHOJc,278198 Election Data Case Study II
+135,135,278119 Understanding Hypothesis Testing 1,29.0,koD8Qi2eQ-k,278119 Understanding Hypothesis Testing 1
+136,136,278119 Understanding Hypothesis Testing 2,27.0,Df6UNOe-74c,278119 Understanding Hypothesis Testing 2
+137,137,278120 Null and Alternate Hypotheses 1,24.0,OmLOjQ0BKdk,278120 Null and Alternate Hypotheses 1
+138,138,278120 Null and Alternate Hypotheses 2,23.0,9YsIZKn_CTg,278120 Null and Alternate Hypotheses 2
+139,139,278121 Making a Decision 1,22.0,nCsc2dQH3iY,278121 Making a Decision 1
+140,140,278121 Making a Decision 2,20.0,IuAYDPiM8OY,278121 Making a Decision 2
+141,141,278122 Critical Value Method 1,15.0,iv8GPCTHcJQ,278122 Critical Value Method 1
+142,142,278122 Critical Value Method 2,12.0,22IF2RRZLAo,278122 Critical Value Method 2
+143,143,278123 Critical Value Method   Examples 1,8.0,BxxpKw0W9Wg,278123 Critical Value Method   Examples 1
+144,144,278123 Critical Value Method   Examples 2,6.0,bXRIbfRCIig,278123 Critical Value Method   Examples 2
+145,145,278123 Critical Value Method   Examples 3,1.0,bPje_GTdM74,278123 Critical Value Method   Examples 3
+146,146,278127 p value Method,44.0,5Bzg2BtxMvg,278127 p value Method
+147,147,278128  pvalue Method Example,,,
+148,148,278129 Types of Error,,,
+149,149,278130 Summary,45.0,kEDnvELijIA,278130 Summary
+150,150,278135 T Distribution,21.0,uXsqxriIDd0,278135 T Distribution
+151,151,278136 Two Sample Mean Test 1,19.0,NZiwFCIDLKE,278136 Two Sample Mean Test 1
+152,152,278136 Two Sample Mean Test 2,18.0,RFbs2-FcdIE,278136 Two Sample Mean Test 2
+153,153,278137 Two Sample Proportion Te,,,
+154,154,278138 A B Testing Demonstration 1,16.0,ymb1t3w5PyA,278138 A B Testing Demonstration 1
+155,155,278138 A B Testing Demonstration 2,13.0,CwnN2I5xXh4,278138 A B Testing Demonstration 2
+156,156,278140 Industry Relevance 1,9.0,0goPhr0wL0w,278140 Industry Relevance 1
+157,157,278140 Industry Relevance 2,4.0,yAHSuL5sPcM,278140 Industry Relevance 2
+158,158,278142 Introduction to EDA,14.0,wtmMFFJaFIc,278142 Introduction to EDA
+159,159,278144 Public and Private Data,11.0,jkCWojfr5II,278144 Public and Private Data
+160,160,278145 Private Data 1,10.0,wh0oC6KgFlo,278145 Private Data 1
+161,161,278145 Private Data 2,3.0,EqqDTaEE1j4,278145 Private Data 2
+162,162,278146 Public Data 1,49.0,Z7qR-2CKpww,278146 Public Data 1
+163,163,278146 Public Data 2,,,
+164,164,278150 Fixing Rows and Column,,,
+165,165,278151 Missing Value,,,
+166,166,278152 Standardising Values 1,2.0,iN93rNTlc2k,278152 Standardising Values 1
+167,167,278152 Standardising Values 2,0.0,qDPc2pdqHwQ,278152 Standardising Values 2
+168,168,278153 Invalid Value,,,
+169,169,278154 Filtering Data,,,
+170,170,278157 Data Description,43.0,mXSL44t4VKU,278157 Data Description
+171,171,278158 Unordered Categorical Variables  Univariate Analysis 1,42.0,-VnbKQVeoVE,278158 Unordered Categorical Variables  Univariate Analysis 1
+172,172,278158 Unordered Categorical Variables  Univariate Analysis 2,41.0,Q0Bt5BtVE9U,278158 Unordered Categorical Variables  Univariate Analysis 2
+173,173,278159 Ordered Categorical Variables  Univariate Analysis 1,40.0,wxtLK20SNpI,278159 Ordered Categorical Variables  Univariate Analysis 1
+174,174,278159 Ordered Categorical Variables  Univariate Analysis 2,38.0,qQSwxaTJjW4,278159 Ordered Categorical Variables  Univariate Analysis 2
+175,175,278160 Quantitative Variables  Univariate Analysis 1,36.0,HvaN2Yj0Ao4,278160 Quantitative Variables  Univariate Analysis 1
+176,176,278160 Quantitative Variables  Univariate Analysis 2,33.0,np8Qe_r-_0Q,278160 Quantitative Variables  Univariate Analysis 2
+177,177,278161 Quantitative Variables Summary Metric,,,
+178,178,278162 Summary,23.0,vdkTrAbEj1A,278162 Summary
+179,179,278165 Introduction to Segmented Univariate Analysi,,,
+180,180,278166 Basis of Segmentation,37.0,OZWUlACaU3E,278166 Basis of Segmentation
+181,181,278167 Quick way of Segmentation,34.0,gztZg65GMjk,278167 Quick way of Segmentation
+182,182,278168 Comparison of Average,,,
+183,183,278169 Comparison of Other Metric,,,
+184,184,278172 Bivariate Analysis on Continuous Variable,,,
+185,185,278173 Business Problems Involving Correlation 1,32.0,gru1qJYLI-E,278173 Business Problems Involving Correlation 1
+186,186,278173 Business Problems Involving Correlation 2,28.0,xAb4wXPMJWM,278173 Business Problems Involving Correlation 2
+187,187,278175 Bivariate Analysis on categorical variable,,,
+188,188,278176 Summary,21.0,No2Vq-TzFo0,278176 Summary
+189,189,278179 What are Derived Metric,,,
+190,190,278180 Types of Derived Metrics  Type Driven Metrics 1,27.0,C8WZb4LX-rs,278180 Types of Derived Metrics  Type Driven Metrics 1
+191,191,278180 Types of Derived Metrics  Type Driven Metrics 2,24.0,obf25vtVH4o,278180 Types of Derived Metrics  Type Driven Metrics 2
+192,192,278181 Types of Derived Metrics Business Driven Metric,,,
+193,193,278183 Types of Derived Metrics Data Driven Metric,,,
+194,194,278184 Summary,19.0,J4BvX8PXtB0,278184 Summary
+195,195,278186 Module Summary,18.0,YjSVza6NPoQ,278186 Module Summary

@@ -1,94 +1,282 @@
 ,id,title
-0,Ars8YPBaWLM,221331 Plotting Distributions Across Categories 2
-1,DI5ybV5I6rg,221321 Sub Plots
-2,JLoXFzEDcoY,221358 Adding and Deleting Columns
-3,KUlpfByJ4nw,221348 Group by Clause
-4,8a3FNlr9_Nw,221320 Components of a Plot
-5,G6iLDoLtpgM,221331 Plotting Distributions Across Categories 1
-6,aVicpWfvdns,1 221391  Defining Data Warehouse
-7,O-dVFjNIo9w,221319 Data Visualisation Toolkit
-8,A3q6ihThnIM,221347 Aggregate Functions
-9,bzZDVLd36XQ,221328 Bivariate Distributions   Plotting Pairwise Relationships
-10,brNaaAoMx08,221316 Understanding Basic Chart Types II
-11,sBtlDiBl5Nc,221337 An introduction to RDBMS and SQL 1
-12,LR_N8OKuoCM,221315 Understanding Basic Chart Types I
-13,UAW8E8q7474,221327 Bivariate Distributions
-14,lXXznd4d2M0,221314 Visualisations   The World of Imagery
-15,exi2DAW3xDU,221326 Univariate Distributions   Rug Plots
-16,UD1Eo3tal-0,221313 Data Visualisation Examples 3
-17,gU__BW8GaEY,221325 Univariate Distributions
-18,2HYrVQpMk3c,221313 Data Visualisation Examples 2
-19,C89FJrRqL6A,221313 Data Visualisation Examples 1
-20,0bUg7yeWk-0,221269 Lambda function & Pivot tables 3
-21,gc6HbHl6ez0,221269 Lambda function & Pivot tables 2
-22,9vBiQUaKqTA,221269 Lambda function & Pivot tables 1
-23,27Yu5M8859I,221246 Control Structures and Functions Func 3
-24,MKl1VQuOOEc,221268 Grouping and Summarizing Dataframes 2
-25,vJLZjeFm0n4,221276 Cleaning Datasets 4
-26,XAUEYfWQJKI,221246 Control Structures and Functions Func 2
-27,Y2IUO52_0HE,221268 Grouping and Summarizing Dataframes 1
-28,6i9Bry2Pf74,221267 Merge and Append 2
-29,pvIW4qD2eKk,221262 Basic Linear Algebra Operations
-30,uWYzLzTU1MQ,221261 Operations on Arrays
-31,KZPc-f8BFUw,221276 Cleaning Datasets 3
-32,NLG4lsZVmbI,221246 Control Structures and Functions Func 1
-33,VoSqPqq7G0o,221267 Merge and Append 1
-34,z2qMfJ3Cy3E,221260 Basic Array Operations
-35,H2qemIXC_xA,221266 Indexing and Selecting Data 3
-36,aTxc_6XptDU,Vector dot product and vector length   Vectors and spaces   Linear Algebra
-37,ypggaRDFowU,221276 Cleaning Datasets 2
-38,IyEqXvqe2J4,221257 Computation Times in NumPy and Standard Python Lists
-39,s9a3AmwPAMQ,"The determinant   Essence of linear algebra, chapter 6 Imortant!!!"
-40,u_eqk7r74FQ,221245 Control Structures and FunctionsComprehensions
-41,x4_F8J4aksc,"Liner combinations ,Vectors, what even are they chapter 1"
-42,UfHbQGEMbxw,221276 Cleaning Datasets 1
-43,PxtSNGB8rX4,221236 Python Basic VII Sets
-44,ANQZvTSg_74,221245 Control Structures and FunctionsComprehensions 2
-45,MEF7ztfCAtw,"Linear transformations and matrices   Essence of linear algebra, chapter 3 !!!!!!"
-46,NFo6YgwH9bc,221266 Indexing and Selecting Data 2
-47,_XihkBglJ24,221256 Multidimensional Arrays
-48,IftUFd0nA9A,221275 Reading Data From PDF Files
-49,XYAnOIuRVyw,"Linear combinations, span, and basis vectors   Essence of linear algebra, chapter 2"
-0,gTNndc2REwk,"Inverse matrices, column space and null space   Essence of linear algebra, chapter 7"
-1,I5oXdGKeM0E,Thinking about multivariable functions   contour plots
-2,egh_PWSYdLI,Idea behind inverting a 2x2 matrix   Matrices   Precalculus   Khan Academy
-3,9Cpiyga8fTk,"221255 Subset, Slice, Index and Iterate through Arrays"
-4,ehivzN8IEAQ,The Jacobian matrix   YouTube
-5,cmwWJhmNsLU,221244 Control Structures and FunctionsLoops
-6,6LNwHHxdMO8,The Hessian matrix   YouTube
-7,wb7neqOgs6Y,The graphical relationship between a function & its derivative part 2
-8,4df1NiQUA-0,221236 Python Basic V List2
-9,nq2p9UQNv2o,The graphical relationship between a function & its derivative part 1   Khan Academy   YouTube
-10,wDIxT1e0kDQ,"Partial derivatives, introduction   YouTube"
-11,OWi9BQEVXFk,221266 Indexing and Selecting Data 1
-12,RybFEfVapmI,221244 Control Structures and FunctionsLoops 2
-13,7aS7xmJSk1g,Multivariable chain rule   YouTube
-14,Td3FSwwasOs,"Dot products and duality   Essence of linear algebra, chapter 9   YouTube"
-15,1zLiEntjLbw,221274 Getting Data From APIs
-16,8sMpyzoesSw,Critical points introduction   AP Calculus AB   Khan Academy   YouTube
-17,X-Tdqf6Gh2A,221254 Structure and Content of Arrays
-18,KvHm5hg1lNA,Chain rule   Derivative rules   AP Calculus AB   Khan Academy   YouTube
-19,bcYxDDjGvYI,Calculus  Derivatives 2   Taking derivatives   Differential Calculus   Khan Academy   YouTube
-20,w4IZFbCuoEs,221265 Pandas Basics 3
-21,3QDkh_uheLg,Analyzing a function with its derivative   AP Calculus AB   Khan Academy   YouTube
-22,6KhquXPvy4U,221236 Python Basic IV List
-23,b4gl9S9c97I,221273 Reading Data From Websites
-24,eBWZUnjUktM,221253 Creating NumPy Arrays
-25,cXEcqDOfidg,"221243 Control Structures and FunctionsIf ,Elif ,Else"
-26,B8sgIoKAp0I,221236 Python Basic III Array
-27,ay0_ZJsamLA,221236 Python Basic IIStr
-28,T962f8493dc,221265 Pandas Basics 2
-29,GmtSwaxroQg,221252 NumPy Basics 3
-30,ucgJ44HnhVY,221272 Reading Delimited and Relational Databases
-31,8U7CpEMLVzc,221239 Python Basic VI Dict
-32,ODmj2q6xwRA,221236 Python Basic I
-33,INojwGCTCBQ,221252 NumPy Basics 2
-34,Zlr2601d2JY,221265 Pandas Basics 1
-35,umrOlLf953o,221235 Introduction to Jupyter Notebook II
-36,k334a7JDKkU,221235 Introduction to Jupyter Notebook I
-37,UCMvhggV5g4,221252 NumPy Basics 1
-38,T8qYDlg7HxQ,221239 Python Basic V Dict
-39,AHL1UgDPwX4,"111247 Control Structures and FunctionsMap, Filter, and Reduce 3"
-40,3Q-CPofdtAY,221238 Python Basic VI Touples
-41,0dVAhQNAICs,"111247 Control Structures and FunctionsMap, Filter, and Reduce 2"
-42,KHBJeAhUnU0,"111247 Control Structures and FunctionsMap, Filter, and Reduce 1"
+0,FS5a6MsBops,328500 Systems of Linear Equations KH
+1,El4ESmC40iw,328499 Generalized Regression Framework II
+2,FX1gcYcRwls,328498 Generalized Regression Framework I 2
+3,igT7KTinlSM,328498 Generalized Regression Framework I 1
+4,Pb6zOMabUkE,328497 Generalized Regression
+5,51DVE0aTgcI,295812 Interpreting the Results
+6,Jnlqhrz7BYY,295811 Assessing the Model 2
+7,L5LBR-jSw00,295811 Assessing the Model 1
+8,4JbVCx_uZtQ,295810 Model Building III
+9,oHkyzvtBWSU,295809 Model Building II
+10,RKKAMWaiS2g,295808 Model Building I
+11,V8hoVtDJDsA,295807 Exploratory Data Analysis
+12,zO01GS-x5p4,295806 Media Company Case Study 2
+13,wDhyK84ZgT0,295806 Media Company Case Study 1
+14,iBhmLXM76KU,295805 Prediction vs Projection 2
+15,2v3gBsg1U6g,295805 Prediction vs Projection 1
+16,uyZf9HP5F7Q,295804 Linear Regression Revision 2
+17,xLFq3zSntEE,295804 Linear Regression Revision 1
+18,fRDQ1637oYU,295800 Summary
+19,6gnOEIHwDy4,295799 Variable Selection using RFE 3
+20,tSM5-R7kwCg,295799 Variable Selection using RFE 2
+21,SP55YChcLsY,295799 Variable Selection using RFE 1
+22,3s-noz9Cq9w,295798 Residual Analysis and Predictions 3
+23,F5wUYGPan3E,295798 Residual Analysis and Predictions 2
+24,RDjnlTetWqg,295798 Residual Analysis and Predictions 1
+25,o4oJarNygzE,295797 Building the Model II 2
+26,0SRLdhAQXek,295797 Building the Model II 1
+27,ELtY6fE7N94,295796 Building the Model I
+28,7m7PLFKUZ2c,295795 Initial Steps 3
+29,9UxPjBYmW74,295795 Initial Steps 2
+30,exTaLIm1xsk,295795 Initial Steps 1
+31,LuN8CG1pLgc,295794 Data Preparation 2
+32,41koSE2QVM0,295794 Data Preparation 1
+33,rlQg3JCETrs,295793 Reading and Understanding the Data 3
+34,e18w2mItCwY,295793 Reading and Understanding the Data 2
+35,Ley9ghoSKmg,295793 Reading and Understanding the Data 1
+36,oWtraykSWEg,295788 Feature Selection 2
+37,ue_MVH9hC9w,295788 Feature Selection 1
+38,Kq1lU16qZs0,295787 Model Assessment and Comparison
+39,IXFxykKJWpA,295786 Dealing with Categorical Variables 2
+40,qGjiZHAqay4,295786 Dealing with Categorical Variables 1
+41,eywSGipg1-w,295785 Multicollinearity 3
+42,M9sAto6AQSY,295785 Multicollinearity 2
+43,KSV-eBTF0uY,295785 Multicollinearity 1
+44,CHNIUuKgt_8,295784 Moving from SLR to MLR New Considerations
+45,rCOzBsS0Jw4,295783 Motivation When One Variable isnot Enough 2
+46,9pyy5pjp8nw,295783 Motivation When One Variable isnot Enough 1
+47,wD8E7ECQq70,295778 Linear Regression using SKLearn
+48,2-y8GfZt-8I,295777 Residual Analysis and Predictions 2
+49,9Pks3Zq6dbY,295777 Residual Analysis and Predictions 1
+0,Zyj2hTrxMeQ,295776 Building a Linear Model 3
+1,uJhiFmCx5V8,295776 Building a Linear Model 2
+2,LQEz8U7poQI,295776 Building a Linear Model 1
+3,tPL8IUYc5vE,295774 Reading and Understanding the Data
+4,rxSSwEOz27U,295773 Assumptions of Simple Linear Regression
+5,3SqACogM_ZI,295772 Introduction
+6,hrwrfkHH6tI,295768 Strength of Simple Linear Regression 3
+7,2Wmmz1mP81E,295768 Strength of Simple Linear Regression 2
+8,HF84fDWqa_M,295768 Strength of Simple Linear Regression 1
+9,JJRqUStJ2jc,295767 Best Fit Line 3
+10,tGJrvZtPwkY,295767 Best Fit Line 2
+11,ewWJKuXIxEQ,295767 Best Fit Line 1
+12,0SKt8upjN7o,295766 Regression Line 2
+13,_0xNcTDTqqk,295766 Regression Line 1
+14,SXFNmN9cj6o,295765 Introduction to Machine Learning 3
+15,_EKfjiWyuCA,295765 Introduction to Machine Learning 2
+16,O_ZjAAuo2xE,295765 Introduction to Machine Learning 1
+17,aj7rsVhbLXQ,295763 Overview
+18,YjSVza6NPoQ,278186 Module Summary
+19,J4BvX8PXtB0,278184 Summary
+20,Pt_U0Pelsdk,278183 Types of Derived Metrics Data Driven Metrics
+21,No2Vq-TzFo0,278176 Summary
+22,3hDgc1V-S30,278181 Types of Derived Metrics Business Driven Metrics
+23,vdkTrAbEj1A,278162 Summary
+24,obf25vtVH4o,278180 Types of Derived Metrics  Type Driven Metrics 2
+25,-HZ8xv_Vt3Q,278175 Bivariate Analysis on categorical variables
+26,zs6slzCeDN0,278161 Quantitative Variables Summary Metrics
+27,C8WZb4LX-rs,278180 Types of Derived Metrics  Type Driven Metrics 1
+28,xAb4wXPMJWM,278173 Business Problems Involving Correlation 2
+29,PJbYth-pIyU,278169 Comparison of Other Metrics
+30,gHhkVdZkwkE,278179 What are Derived Metrics
+31,BtJfnTIYt3M,278168 Comparison of Averages
+32,gru1qJYLI-E,278173 Business Problems Involving Correlation 1
+33,np8Qe_r-_0Q,278160 Quantitative Variables  Univariate Analysis 2
+34,gztZg65GMjk,278167 Quick way of Segmentation
+35,fwui-fUca4s,278172 Bivariate Analysis on Continuous Variables
+36,HvaN2Yj0Ao4,278160 Quantitative Variables  Univariate Analysis 1
+37,OZWUlACaU3E,278166 Basis of Segmentation
+38,qQSwxaTJjW4,278159 Ordered Categorical Variables  Univariate Analysis 2
+39,pyUzKcnw2Ls,278165 Introduction to Segmented Univariate Analysis
+40,wxtLK20SNpI,278159 Ordered Categorical Variables  Univariate Analysis 1
+41,Q0Bt5BtVE9U,278158 Unordered Categorical Variables  Univariate Analysis 2
+42,-VnbKQVeoVE,278158 Unordered Categorical Variables  Univariate Analysis 1
+43,mXSL44t4VKU,278157 Data Description
+44,5Bzg2BtxMvg,278127 p value Method
+45,kEDnvELijIA,278130 Summary
+46,wp06Pzb5Vks,278129 Types of Errors
+47,WpSKv4l6xUM,278128  pvalue Method Examples
+48,2TGGay3_R_w,278153 Invalid Values
+49,Z7qR-2CKpww,278146 Public Data 1
+0,qDPc2pdqHwQ,278152 Standardising Values 2
+1,bPje_GTdM74,278123 Critical Value Method   Examples 3
+2,iN93rNTlc2k,278152 Standardising Values 1
+3,EqqDTaEE1j4,278145 Private Data 2
+4,yAHSuL5sPcM,278140 Industry Relevance 2
+5,2V9Ry6_a6rA,278151 Missing Values
+6,bXRIbfRCIig,278123 Critical Value Method   Examples 2
+7,jHr503-jUCE,278150 Fixing Rows and Columns
+8,BxxpKw0W9Wg,278123 Critical Value Method   Examples 1
+9,0goPhr0wL0w,278140 Industry Relevance 1
+10,wh0oC6KgFlo,278145 Private Data 1
+11,jkCWojfr5II,278144 Public and Private Data
+12,22IF2RRZLAo,278122 Critical Value Method 2
+13,CwnN2I5xXh4,278138 A B Testing Demonstration 2
+14,wtmMFFJaFIc,278142 Introduction to EDA
+15,iv8GPCTHcJQ,278122 Critical Value Method 1
+16,ymb1t3w5PyA,278138 A B Testing Demonstration 1
+17,IyoZO7VnjUE,278137 Two Sample Proportion Test
+18,RFbs2-FcdIE,278136 Two Sample Mean Test 2
+19,NZiwFCIDLKE,278136 Two Sample Mean Test 1
+20,IuAYDPiM8OY,278121 Making a Decision 2
+21,uXsqxriIDd0,278135 T Distribution
+22,nCsc2dQH3iY,278121 Making a Decision 1
+23,9YsIZKn_CTg,278120 Null and Alternate Hypotheses 2
+24,OmLOjQ0BKdk,278120 Null and Alternate Hypotheses 1
+25,HDlNa-6Yxos,278077 Basics of Probability Introduction  Inferential Statistics
+26,6LE4NU1gisU,278079 Basics of ProbabilityRandom Variables
+27,Df6UNOe-74c,278119 Understanding Hypothesis Testing 2
+28,C0ZgMz45o2I,278079 Basics of ProbabilityRandom Variables 2
+29,koD8Qi2eQ-k,278119 Understanding Hypothesis Testing 1
+30,cmeudA1lSNw,278080 Basics of ProbabilityProbability Distributions   I
+31,rD6g95vP6jk,278082 Basics of ProbabilityExpected Value   I 1
+32,M9tRUcSiViI,278082 Basics of ProbabilityExpected Value   I 2
+33,nN-SWDsCFm0,"Counting, permutations, and combinations"
+34,LtgeyC1o0r4,278197 Power Law
+35,9ZEhxo04uU8,278198 Election Data Case Study I
+36,9ZIbSiZHOJc,278198 Election Data Case Study II
+37,9bzlL2V8u1g,278068 The CRISP DM FrameworkModel Evaluation and Deployment
+38,xl4n7ZGFyTY,278067 The CRISP DM FrameworkModelling
+39,tyBXuL536ug,278066 The CRISP DM FrameworkPreparing Data for Analysis
+40,eGwYYH7ycJA,278065 The CRISP DM FrameworkUnderstanding Raw Data
+41,8VZOTPXNUlg,278063 The CRISP DM Framework
+42,LmtMa5UNL6s,278063 The CRISP DM Framework lifecycle
+43,syhEEw5QPqY,Succeeding with PGDML & AI
+44,m0q74FyxDJw,697988 ML vs AI
+45,B8Z3uATQ9vM,278021 Reinforcement Learning
+46,u1V-szjctNs,278020 Graphical Models
+47,GEpip1otvAE,278019 Deep Learning
+48,yqvtY7ESjh0,221383 Optimisation in Window Function
+49,LbL3YU4tzJQ,221352 Multi Join
+0,pLtcKx_CEP8,221383 Optimisation in Joins
+1,srRpxEpg0cE,221351 Inner Join
+2,UcMgs76h9dM,221381 Optimisation in Group by and Order by
+3,EJ2Zez9tPvI,221350 Nested Queries
+4,bgdDrPFfyJ8,221380 Optimisation in Where Clause
+5,tkQQWDBe_uQ,221379 Optimisation in Select Clause
+6,Wxh1GC6nFh8,221349 Having Clause
+7,YwEIBN_H8nA,221346 Order by Clause
+8,D49YuBGu898,221376 Stored Procedures Application
+9,nqX1lg5KRZ0,221362 String Manipulation
+10,FBUxHauIdzc,221342 Basics of Sorting
+11,ZA3ZK2fvVdU,221375 Introduction to Stored Procedures
+12,sEgr1cihNyc,221361 Changing Constraints Foreign key
+13,-sjgJHpX4S0,221361 Changing Constraints Foreign key
+14,kNBMY2aRw5s,221360 Changing Constraints Primary key
+15,5pT-fVstq7A,221341 Pattern Matching with Wildcards
+16,dFfZEp-Cax4,221374 User defined functions Application
+17,YreSDY59eoM,221340 Compound Functions and Relational Operators
+18,PpiAAQ-tZRQ,7 221390 Data Warehouse Schema  Industry Example
+19,J6B7k7c1PvI,221373 Introduction to User defined Functions
+20,Eswivm6vt1k,6 221389 How to Use a Star Schema   A Demonstration
+21,6ZhFqjJmkPA,221339 Data Retrieval with SQL 2
+22,rSwik1XjDwM,221369 Named Windows
+23,LaCD4aNaagw,221339 Data Retrieval with SQL 1
+24,cwUeQqBk4lQ,221338 Basics of SQL 3
+25,6ljy8L8Dwoo,221338 Basics of SQL 2
+26,RcZr1gAMyWo,221368 Frames
+27,2edJV7bDEDk,4 221385 OLAP vs  OLTP
+28,awAsfnBs1cM,3 221387 Structure of Data Warehouse
+29,k_TRkVLMZYM,221338 Basics of SQL 1
+30,RBPedXGKshY,221367 Introduction to Windowing Functions
+31,0m9RczP_rGE,2 221388 Star Schema
+32,TZpDjo3d6As,221353 Outer Join
+33,qJFT8lD-HEU,Cross product introduction   Vectors and spaces   Linear Algebra   Khan Academy   YouTube
+34,lsPQySQJAjc,Defining the angle between vectors   Vectors and spaces   Linear Algebra
+35,X_Ctsfs6bz4,"Eigenvectors and eigenvalues   Essence of linear algebra, chapter 14   YouTube"
+36,LFQTX07znKA,Dot and cross product comparison intuition   Vectors and spaces   Linear Algebra   Khan Academy   Yo
+37,VWnOGSFeW5M,221337 An introduction to RDBMS and SQL 2
+38,Ars8YPBaWLM,221331 Plotting Distributions Across Categories 2
+39,DI5ybV5I6rg,221321 Sub Plots
+40,JLoXFzEDcoY,221358 Adding and Deleting Columns
+41,KUlpfByJ4nw,221348 Group by Clause
+42,8a3FNlr9_Nw,221320 Components of a Plot
+43,G6iLDoLtpgM,221331 Plotting Distributions Across Categories 1
+44,aVicpWfvdns,1 221391  Defining Data Warehouse
+45,O-dVFjNIo9w,221319 Data Visualisation Toolkit
+46,A3q6ihThnIM,221347 Aggregate Functions
+47,bzZDVLd36XQ,221328 Bivariate Distributions   Plotting Pairwise Relationships
+48,brNaaAoMx08,221316 Understanding Basic Chart Types II
+49,sBtlDiBl5Nc,221337 An introduction to RDBMS and SQL 1
+0,LR_N8OKuoCM,221315 Understanding Basic Chart Types I
+1,UAW8E8q7474,221327 Bivariate Distributions
+2,lXXznd4d2M0,221314 Visualisations   The World of Imagery
+3,exi2DAW3xDU,221326 Univariate Distributions   Rug Plots
+4,UD1Eo3tal-0,221313 Data Visualisation Examples 3
+5,gU__BW8GaEY,221325 Univariate Distributions
+6,2HYrVQpMk3c,221313 Data Visualisation Examples 2
+7,C89FJrRqL6A,221313 Data Visualisation Examples 1
+8,0bUg7yeWk-0,221269 Lambda function & Pivot tables 3
+9,gc6HbHl6ez0,221269 Lambda function & Pivot tables 2
+10,9vBiQUaKqTA,221269 Lambda function & Pivot tables 1
+11,27Yu5M8859I,221246 Control Structures and Functions Func 3
+12,MKl1VQuOOEc,221268 Grouping and Summarizing Dataframes 2
+13,vJLZjeFm0n4,221276 Cleaning Datasets 4
+14,XAUEYfWQJKI,221246 Control Structures and Functions Func 2
+15,Y2IUO52_0HE,221268 Grouping and Summarizing Dataframes 1
+16,6i9Bry2Pf74,221267 Merge and Append 2
+17,pvIW4qD2eKk,221262 Basic Linear Algebra Operations
+18,uWYzLzTU1MQ,221261 Operations on Arrays
+19,KZPc-f8BFUw,221276 Cleaning Datasets 3
+20,NLG4lsZVmbI,221246 Control Structures and Functions Func 1
+21,VoSqPqq7G0o,221267 Merge and Append 1
+22,z2qMfJ3Cy3E,221260 Basic Array Operations
+23,H2qemIXC_xA,221266 Indexing and Selecting Data 3
+24,aTxc_6XptDU,Vector dot product and vector length   Vectors and spaces   Linear Algebra
+25,ypggaRDFowU,221276 Cleaning Datasets 2
+26,IyEqXvqe2J4,221257 Computation Times in NumPy and Standard Python Lists
+27,s9a3AmwPAMQ,"The determinant   Essence of linear algebra, chapter 6 Imortant!!!"
+28,u_eqk7r74FQ,221245 Control Structures and FunctionsComprehensions
+29,x4_F8J4aksc,"Liner combinations ,Vectors, what even are they chapter 1"
+30,UfHbQGEMbxw,221276 Cleaning Datasets 1
+31,PxtSNGB8rX4,221236 Python Basic VII Sets
+32,ANQZvTSg_74,221245 Control Structures and FunctionsComprehensions 2
+33,MEF7ztfCAtw,"Linear transformations and matrices   Essence of linear algebra, chapter 3 !!!!!!"
+34,NFo6YgwH9bc,221266 Indexing and Selecting Data 2
+35,_XihkBglJ24,221256 Multidimensional Arrays
+36,IftUFd0nA9A,221275 Reading Data From PDF Files
+37,XYAnOIuRVyw,"Linear combinations, span, and basis vectors   Essence of linear algebra, chapter 2"
+38,gTNndc2REwk,"Inverse matrices, column space and null space   Essence of linear algebra, chapter 7"
+39,I5oXdGKeM0E,Thinking about multivariable functions   contour plots
+40,egh_PWSYdLI,Idea behind inverting a 2x2 matrix   Matrices   Precalculus   Khan Academy
+41,9Cpiyga8fTk,"221255 Subset, Slice, Index and Iterate through Arrays"
+42,ehivzN8IEAQ,The Jacobian matrix   YouTube
+43,cmwWJhmNsLU,221244 Control Structures and FunctionsLoops
+44,6LNwHHxdMO8,The Hessian matrix   YouTube
+45,wb7neqOgs6Y,The graphical relationship between a function & its derivative part 2
+46,4df1NiQUA-0,221236 Python Basic V List2
+47,nq2p9UQNv2o,The graphical relationship between a function & its derivative part 1   Khan Academy   YouTube
+48,wDIxT1e0kDQ,"Partial derivatives, introduction   YouTube"
+49,OWi9BQEVXFk,221266 Indexing and Selecting Data 1
+0,RybFEfVapmI,221244 Control Structures and FunctionsLoops 2
+1,7aS7xmJSk1g,Multivariable chain rule   YouTube
+2,Td3FSwwasOs,"Dot products and duality   Essence of linear algebra, chapter 9   YouTube"
+3,1zLiEntjLbw,221274 Getting Data From APIs
+4,8sMpyzoesSw,Critical points introduction   AP Calculus AB   Khan Academy   YouTube
+5,X-Tdqf6Gh2A,221254 Structure and Content of Arrays
+6,KvHm5hg1lNA,Chain rule   Derivative rules   AP Calculus AB   Khan Academy   YouTube
+7,bcYxDDjGvYI,Calculus  Derivatives 2   Taking derivatives   Differential Calculus   Khan Academy   YouTube
+8,w4IZFbCuoEs,221265 Pandas Basics 3
+9,3QDkh_uheLg,Analyzing a function with its derivative   AP Calculus AB   Khan Academy   YouTube
+10,6KhquXPvy4U,221236 Python Basic IV List
+11,b4gl9S9c97I,221273 Reading Data From Websites
+12,eBWZUnjUktM,221253 Creating NumPy Arrays
+13,cXEcqDOfidg,"221243 Control Structures and FunctionsIf ,Elif ,Else"
+14,B8sgIoKAp0I,221236 Python Basic III Array
+15,ay0_ZJsamLA,221236 Python Basic IIStr
+16,T962f8493dc,221265 Pandas Basics 2
+17,GmtSwaxroQg,221252 NumPy Basics 3
+18,ucgJ44HnhVY,221272 Reading Delimited and Relational Databases
+19,8U7CpEMLVzc,221239 Python Basic VI Dict
+20,ODmj2q6xwRA,221236 Python Basic I
+21,INojwGCTCBQ,221252 NumPy Basics 2
+22,Zlr2601d2JY,221265 Pandas Basics 1
+23,umrOlLf953o,221235 Introduction to Jupyter Notebook II
+24,k334a7JDKkU,221235 Introduction to Jupyter Notebook I
+25,UCMvhggV5g4,221252 NumPy Basics 1
+26,T8qYDlg7HxQ,221239 Python Basic V Dict
+27,AHL1UgDPwX4,"111247 Control Structures and FunctionsMap, Filter, and Reduce 3"
+28,3Q-CPofdtAY,221238 Python Basic VI Touples
+29,0dVAhQNAICs,"111247 Control Structures and FunctionsMap, Filter, and Reduce 2"
+30,KHBJeAhUnU0,"111247 Control Structures and FunctionsMap, Filter, and Reduce 1"

@@ -1,476 +1,476 @@
-,id,title
-0,7Cn6qrFj5qQ,328595 Choosing between Trees and Random Forests II
-1,ZXYSg0O4tK4,328594 Choosing between Trees and Random Forests I 2
-2,nw79PN8-j08,328594 Choosing between Trees and Random Forests I 1
-3,6YSiMc_SLPk,328593 CART and CHAID Trees
-4,VUQnfHIDQ7o,328592 End to End Modelling  I
-5,Jsn8HmqBqlQ,328591 Pros and Cons of Different Machine Learning Models 2
-6,m6fc08KDwkk,328591 Pros and Cons of Different Machine Learning Models 1
-7,sDFyjZ5sNz4,328590 Comparing Different Machine Learning Models  II
-8,EJBGY8O--Uc,328589 Comparing Different Machine Learning Models I 2
-9,s_i5dXULEeM,328589 Comparing Different Machine Learning Models I 1
-10,CzueCw4NGOc,328587 Understanding the Business Problem 2
-11,omwtNz4AX08,328587 Understanding the Business Problem 1
-12,E51inoAQtPs,328584 Summary
-13,JB_O5Zab4IY,328582 Random Forests Lab 4
-14,FW6CcpeJF-A,328582 Random Forests Lab 3
-15,_2MyYJZnO0E,328582 Random Forests Lab 2
-16,xT1TC_ZkHMQ,328582 Random Forests Lab 1
-17,PCcLXnCOxGk,328579 Creating a Random Forest 2
-18,HhKvCZZVSzs,328579 Creating a Random Forest 1
-19,PzEf9_uf9bE,328577 Ensembles 2
-20,sdV0L-69sS4,328577 Ensembles 1
-21,yk7uJYvL8Ec,328571 Choosing Tree Hyperparameters in Python 4
-22,HULZRYZyx2w,328571 Choosing Tree Hyperparameters in Python 3
-23,AuR8tStl0b4,328571 Choosing Tree Hyperparameters in Python 2
-24,_4-18LodYRA,328571 Choosing Tree Hyperparameters in Python 1
-25,ZE-Uk5EBQAQ,328570 Building Decision Trees in Python 4
-26,YoqEdOE2SOI,328570 Building Decision Trees in Python 3
-27,zAFT6UT8M4o,328570 Building Decision Trees in Python 2
-28,82meQotR8G4,328570 Building Decision Trees in Python 1
-29,vZpn9pNgXaE,328569 Tree Pruning 2
-30,VlHfFWzZEI8,328569 Tree Pruning 1
-31,OnuNqfzfLjc,328568 Tree Truncation 2
-32,iZbswxl-hkg,328567 Advantages and Disadvantages 1
-33,mFfw__hTUbE,328564 Splitting by Rsquared
-34,0O4U5Jlxjts,328562 Entropy and Information Gain 2
-35,7InO5ode0yU,328562 Entropy and Information Gain 1
-36,McxjXcvkXao,328561 Gini Index 2
-37,qY2fadfWZgE,328561 Gini Index 1
-38,G-kxEpM2X50,328560 Concept of Homogeneity 3
-39,rFqMX9SESUU,328557 Regression with Decision Trees
-40,EzL3Eyr-Kds,328568 Tree Truncation 1
-41,mu1ZGrWjN8E,328560 Concept of Homogeneity 2
-42,8U4K3_pN494,328555 Interpreting a Decision Tree 2
-43,3k1I2QBDCuo,328555 Interpreting a Decision Tree 1
-44,LXDlbnfqhIE,328560 Concept of Homogeneity 1
-45,0f5wzmmWy2w,328554 Introduction to Decision Trees 2
-46,jntx4gmovxI,328554 Introduction to Decision Trees 1
-47,2uQQFn1EeYE,328546 Letter Recognition Using SVM 4
-48,VeXslODzt40,328546 Letter Recognition Using SVM 3
-49,mhR1V2u_GxM,328546 Letter Recognition Using SVM 2
-0,7ocCCxcnqxQ,328546 Letter Recognition Using SVM 1
-1,b2IG0cWpemY,328545 Choosing a Kernel Function
-2,jzeJ858yWWM,328543 Building Nonlinear Models in Python 4
-3,8-ayXLcWFQ8,328543 Building Nonlinear Models in Python 3
-4,oRuL0JkrLn8,328534 SVM Python Lab II 4
-5,0cqf27F7-mc,328534 SVM Python Lab II 3
-6,TH4Yhiciv6Q,328543 Building Nonlinear Models in Python 2
-7,M9PwA7SwZPg,328534 SVM Python Lab II 2
-8,l_rr3lE2DOE,328543 Building Nonlinear Models in Python 1
-9,XXaeI0G0dn4,328534 SVM Python Lab II 1
-10,_0wKWpjbo3s,328542 The Kernel Trick
-11,ucg5rQVLAqc,328533 SVM Python Lab I 4
-12,DpFZcOxtZ1o,328533 SVM Python Lab I 3
-13,cueFMRFoslc,328541 Feature Transformation
-14,bYFXfgtM8z4,328533 SVM Python Lab I 2
-15,UYejGI22PMg,328533 SVM Python Lab I 1
-16,qbgMJkzjMPA,328532 Cost of Misclassification
-17,ly8evhOjn5M,328540 Mapping Nonlinear Data to Linear Data
-18,LomhV0GIVUw,328525 Maximal Margin Classifier 2
-19,jrZY8zQyr8w,328539 Introduction to Kernels
-20,OZTld0hkq3E,328525 Maximal Margin Classifier 1
-21,eGjbtpqY7mc,328530 The Slack Variable
-22,NG5iV9oxmVM,328529 The Soft Margin Classifier 2
-23,rBG1dY7p1gw,328524 Concept of a Hyperplane in 3D 3
-24,M81RJZelIew,328524 Concept of a Hyperplane in 3D 2
-25,VPN777X_4RM,328529 The Soft Margin Classifier 1
-26,Fty3jTRrhZ0,328524 Concept of a Hyperplane in 3D 1
-27,HcPX5CSW2Rg,328522 Concept of a Hyperplane in 2D
-28,ShhqTcyQDVo,328521 Introduction to SVM 2
-29,XWNypMIoDPk,328521 Introduction to SVM 1
-30,Lbu_cKmPxkI,295913 Cross Validation Hyperparameter Tuning 4
-31,omF4TZ7j0tA,295913 Cross Validation Hyperparameter Tuning 3
-32,o7BwLzyUNjQ,295904 Regularization
-33,nA3lnQzBXL8,295913 Cross Validation Hyperparameter Tuning 2
-34,T9KXFj8jyAA,295902 BiasVariance Tradeoff
-35,8IQ7Dz7HLlw,295913 Cross Validation Hyperparameter Tuning 1
-36,MjQkcyGTpjs,295912 Cross Validation Python Demonstration
-37,K12KVmGyAn0,"295901 Simplicity, Complexity and Overfitting 3"
-38,BTdasPWn7x4,295911 Cross Validation Motivation 2
-39,T3I4vlPada8,"295901 Simplicity, Complexity and Overfitting 2"
-40,I7m33ipwUJI,295911 Cross Validation Motivation 1
-41,PGNVYIcXSEw,"295901 Simplicity, Complexity and Overfitting 1"
-42,i5FVyAlU14g,295909 Model Evaluation Python Demonstration II
-43,JlspgYO4jic,295900 Model and Learning Algorithm 2
-44,iPW6X0ROwZM,295909 Model Evaluation Python Demonstration I 2
-45,lat8HcIAAMg,295909 Model Evaluation Python Demonstration I 1
-46,KtAogqu-p5o,295900 Model and Learning Algorithm 1
-47,2jOm3O97trU,295899 Introduction to Model Selection 2
-48,y5ykRKHb2HU,295907 Regularization and Hyperparameters
-49,DEL-oNaP2IE,295899 Introduction to Model Selection 1
-0,eKQSepZuv2M,295888 Python Lab Education Or Cinema 1
-1,IZpoTwpj3jw,295890 Python Lab SMS Spam Ham Classifier Bernoulli
-2,QsDzQ9xcYCM,295887 Quick Introduction to Bernoulli Naive Bayes
-3,djXSUyo6zlQ,295889 Python Lab  SMS Spam Ham Classifier  Multinomial 3
-4,SyRylIx92jE,295886 Laplace Smoothing 2
-5,lBHyXv56Ll4,295889 Python Lab  SMS Spam Ham Classifier  Multinomial 2
-6,SvRJIGN794E,295886 Laplace Smoothing 1
-7,alYNVvoMLNA,295885 Document Classifier Worked out Example 3
-8,wnknANcF6Vc,295889 Python Lab  SMS Spam Ham Classifier  Multinomial 1
-9,a6H7oZaIVQI,295885 Document Classifier Worked out Example 2
-10,u0DgbeRT24Y,295888 Python Lab Education Or Cinema 3
-11,YWSo5mNhcVs,295885 Document Classifier Worked out Example 1
-12,Tkv8kG_Ws_0,295884 Document Classifier Pre Processing Steps 3
-13,St2Ej5F20pY,295884 Document Classifier Pre Processing Steps 2
-14,6m_XNRpdbiU,295888 Python Lab Education Or Cinema 2
-15,LX_PRfc1BHo,295884 Document Classifier Pre Processing Steps 1
-16,as965r8Cv5E,295883 Introduction Naive Bayes for Text Classification
-17,t68bZudM_pk,295880 Deciphering Naive Bayes 2
-18,i5gRPKizfnE,295880 Deciphering Naive Bayes 1
-19,JNZAcB_4tJU,295879 Conditional Independence in Naive Bayes
-20,VPBO9KXjuoY,295873 Bayes Theorem
-21,6DR8m66e-hs,295877 Naive Bayes With One Feature 2
-22,09pWE8r2CDs,295877 Naive Bayes With One Feature 1
-23,Zy5SKt3ODh4,295872 Conditional Probability and Its Intuition 2
-24,SxN0K_mrxDc,295872 Conditional Probability and Its Intuition 1
-25,5pPZhIWP1fw,295871 Introduction Naive Bayes
-26,e2DSLBHJxoU,295857 Nuances of Logistic Regression Variable Transformation III
-27,QPhTMmkLYUE,295849 Summary
-28,GbCMbtc6Ez8,295856 Nuances of Logistic Regression Variable Transformation II 2
-29,6OA3SUCCqUY,295848 Making Predictions
-30,ni2Z1CH6ug4,295847 Precision and Recall 3
-31,5jANZfK6fZk,295847 Precision and Recall 2
-32,J9U9J9xHiAA,295856 Nuances of Logistic Regression Variable Transformation II 1
-33,-MYOXFQ9VxI,295864 Tracking of Model Performance Over Time
-34,UrZJv4TR2p0,295863 Model Validation and Importance of Stability 2
-35,JIFDqrgkGew,295847 Precision and Recall 1
-36,fTU7N7Ff5ws,295855 Nuances of Logistic Regression Variable Transformation I
-37,eLQ_sn3fNOE,295845 Finding the Optimal Threshold
-38,68UnydN1Vyc,295837 Manual Feature Elimination
-39,UBuQZdjBhqw,295836 Confusion Matrix and Accuracy
-40,H2sDqcj6Pyk,295854 Nuances of Logistic Regression Segmentation
-41,aBCjtwUueOA,295844 ROC Curve in Python
-42,-05H5bEI9JI,295863 Model Validation and Importance of Stability 1
-43,YhWBHhUtlGU,295835 Feature Elimination using RFE
-44,do0dzihR8dM,295862 Model Evaluation A Second Look
-45,5COx0V4QNug,295843 ROC Curve 3
-46,u2G_ye2vk0k,295834 Building your First Model 2
-47,Y486I1PJs5I,295853 Nuances of Logistic Regression Sample Selection
-48,Jo-TDdZeLJY,295861 Commonly Faced Challenges in Implementation of Logistic Regression
-49,0p15yxNDegU,295834 Building your First Model 1
-0,Sf9O9Mdwt5w,295852 Getting familiar with Logistic Regression 2
-1,U_F2DsSjdSc,295843 ROC Curve 2
-2,HJk6p6Nyjg4,295833 Data Cleaning and Preparation II 2
-3,n8ycwTbTM7U,295828 Odds and Log Odds 2
-4,p1WYZjMl0xM,295852 Getting familiar with Logistic Regression 1
-5,WSVcHjvbZZE,295843 ROC Curve 1
-6,hVoYhdugwd8,295828 Odds and Log Odds 1
-7,ePs91My-goY,295833 Data Cleaning and Preparation II 1
-8,llWAyoVFG2I,295842 Sensitivity and Specificity in Python
-9,0rHQAc4P3SQ,295827 Finding the Best Fit Sigmoid Curve II
-10,koEs1iM7OQ8,295832 Data Cleaning and Preparation I 2
-11,n65yEYRZqy8,295832 Data Cleaning and Preparation I 1
-12,5iqXxTtchPA,295826 Finding the Best Fit Sigmoid Curve I 2
-13,oNpO5_nYn68,295826 Finding the Best Fit Sigmoid Curve I 1
-14,hzVTuN4ZM-k,295825 Sigmoid Curve 2
-15,k2Kj7NwFyWM,295825 Sigmoid Curve 1
-16,rLnshjgCT8A,295824 Binary Classification 2
-17,fk5eFDweqwQ,295824 Binary Classification 1
-18,fawVmGNM-1U,328511 Model Selection CriteriaII 1
-19,Ut157JFUpC0,328510 Model Selection Criteria I 3
-20,HxT_CWhlokw,328516 Summary
-21,zWFUxlhzxbU,328510 Model Selection Criteria I 2
-22,2r-bZcJm3t4,328512 Feature Selection 2
-23,om9wbaOh4So,328510 Model Selection Criteria I 1
-24,6FcJbkr-xFY,328512 Feature Selection 1
-25,D_fg9WV8xAI,328509 Ridge and Lasso Regression in Python 3
-26,kC00NSCokks,328511 Model Selection CriteriaII 3
-27,hm6oMN1MccI,328509 Ridge and Lasso Regression in Python 2
-28,sm8jeGd4JGc,328511 Model Selection CriteriaII 2
-29,ci3CDAWs92w,328509 Ridge and Lasso Regression in Python 1
-30,fq1j0lB0TFY,328508 Ridge and Lasso Regression II
-31,fgcnNW8G4C0,328507 Ridge and Lasso Regression I 2
-32,J0BxdUWOalg,328507 Ridge and Lasso Regression I 1
-33,xtF-eU7Sde4,328506 Regularized Regression
-34,Q252SOPRXC8,328503 Summary
-35,5jn7AL6apeU,328502 Generalized Regression in Python
-36,D_Cl_FIRH1Q,328501 Generalized Regression Framework III
-37,-4dZx395Eh8,278154 Filtering Data
-38,A_Mh4btPU1s,278146 Public Data 2
-39,QjdhACIL0bc,221333 Time Series Data 2
-40,EH1bYRYeKig,221333 Time Series Data 1
-41,kO4GW3UoGXc,221332 Plotting Aggregate Values Across Categories 2
-42,EKwLfBi_eO4,221332 Plotting Aggregate Values Across Categories 1
-43,aUisRv6fyP0,221322 Functionalities of Plots
-44,FS5a6MsBops,328500 Systems of Linear Equations KH
-45,El4ESmC40iw,328499 Generalized Regression Framework II
-46,FX1gcYcRwls,328498 Generalized Regression Framework I 2
-47,igT7KTinlSM,328498 Generalized Regression Framework I 1
-48,Pb6zOMabUkE,328497 Generalized Regression
-49,51DVE0aTgcI,295812 Interpreting the Results
-0,Jnlqhrz7BYY,295811 Assessing the Model 2
-1,L5LBR-jSw00,295811 Assessing the Model 1
-2,4JbVCx_uZtQ,295810 Model Building III
-3,oHkyzvtBWSU,295809 Model Building II
-4,RKKAMWaiS2g,295808 Model Building I
-5,V8hoVtDJDsA,295807 Exploratory Data Analysis
-6,zO01GS-x5p4,295806 Media Company Case Study 2
-7,wDhyK84ZgT0,295806 Media Company Case Study 1
-8,iBhmLXM76KU,295805 Prediction vs Projection 2
-9,2v3gBsg1U6g,295805 Prediction vs Projection 1
-10,uyZf9HP5F7Q,295804 Linear Regression Revision 2
-11,xLFq3zSntEE,295804 Linear Regression Revision 1
-12,fRDQ1637oYU,295800 Summary
-13,6gnOEIHwDy4,295799 Variable Selection using RFE 3
-14,tSM5-R7kwCg,295799 Variable Selection using RFE 2
-15,SP55YChcLsY,295799 Variable Selection using RFE 1
-16,3s-noz9Cq9w,295798 Residual Analysis and Predictions 3
-17,F5wUYGPan3E,295798 Residual Analysis and Predictions 2
-18,RDjnlTetWqg,295798 Residual Analysis and Predictions 1
-19,o4oJarNygzE,295797 Building the Model II 2
-20,0SRLdhAQXek,295797 Building the Model II 1
-21,ELtY6fE7N94,295796 Building the Model I
-22,7m7PLFKUZ2c,295795 Initial Steps 3
-23,9UxPjBYmW74,295795 Initial Steps 2
-24,exTaLIm1xsk,295795 Initial Steps 1
-25,LuN8CG1pLgc,295794 Data Preparation 2
-26,41koSE2QVM0,295794 Data Preparation 1
-27,rlQg3JCETrs,295793 Reading and Understanding the Data 3
-28,e18w2mItCwY,295793 Reading and Understanding the Data 2
-29,Ley9ghoSKmg,295793 Reading and Understanding the Data 1
-30,oWtraykSWEg,295788 Feature Selection 2
-31,ue_MVH9hC9w,295788 Feature Selection 1
-32,Kq1lU16qZs0,295787 Model Assessment and Comparison
-33,IXFxykKJWpA,295786 Dealing with Categorical Variables 2
-34,qGjiZHAqay4,295786 Dealing with Categorical Variables 1
-35,eywSGipg1-w,295785 Multicollinearity 3
-36,M9sAto6AQSY,295785 Multicollinearity 2
-37,KSV-eBTF0uY,295785 Multicollinearity 1
-38,CHNIUuKgt_8,295784 Moving from SLR to MLR New Considerations
-39,rCOzBsS0Jw4,295783 Motivation When One Variable isnot Enough 2
-40,9pyy5pjp8nw,295783 Motivation When One Variable isnot Enough 1
-41,wD8E7ECQq70,295778 Linear Regression using SKLearn
-42,2-y8GfZt-8I,295777 Residual Analysis and Predictions 2
-43,9Pks3Zq6dbY,295777 Residual Analysis and Predictions 1
-44,Zyj2hTrxMeQ,295776 Building a Linear Model 3
-45,uJhiFmCx5V8,295776 Building a Linear Model 2
-46,LQEz8U7poQI,295776 Building a Linear Model 1
-47,tPL8IUYc5vE,295774 Reading and Understanding the Data
-48,rxSSwEOz27U,295773 Assumptions of Simple Linear Regression
-49,3SqACogM_ZI,295772 Introduction
-0,hrwrfkHH6tI,295768 Strength of Simple Linear Regression 3
-1,2Wmmz1mP81E,295768 Strength of Simple Linear Regression 2
-2,HF84fDWqa_M,295768 Strength of Simple Linear Regression 1
-3,JJRqUStJ2jc,295767 Best Fit Line 3
-4,tGJrvZtPwkY,295767 Best Fit Line 2
-5,ewWJKuXIxEQ,295767 Best Fit Line 1
-6,0SKt8upjN7o,295766 Regression Line 2
-7,_0xNcTDTqqk,295766 Regression Line 1
-8,SXFNmN9cj6o,295765 Introduction to Machine Learning 3
-9,_EKfjiWyuCA,295765 Introduction to Machine Learning 2
-10,O_ZjAAuo2xE,295765 Introduction to Machine Learning 1
-11,aj7rsVhbLXQ,295763 Overview
-12,YjSVza6NPoQ,278186 Module Summary
-13,J4BvX8PXtB0,278184 Summary
-14,Pt_U0Pelsdk,278183 Types of Derived Metrics Data Driven Metrics
-15,No2Vq-TzFo0,278176 Summary
-16,3hDgc1V-S30,278181 Types of Derived Metrics Business Driven Metrics
-17,vdkTrAbEj1A,278162 Summary
-18,obf25vtVH4o,278180 Types of Derived Metrics  Type Driven Metrics 2
-19,-HZ8xv_Vt3Q,278175 Bivariate Analysis on categorical variables
-20,zs6slzCeDN0,278161 Quantitative Variables Summary Metrics
-21,C8WZb4LX-rs,278180 Types of Derived Metrics  Type Driven Metrics 1
-22,xAb4wXPMJWM,278173 Business Problems Involving Correlation 2
-23,PJbYth-pIyU,278169 Comparison of Other Metrics
-24,gHhkVdZkwkE,278179 What are Derived Metrics
-25,BtJfnTIYt3M,278168 Comparison of Averages
-26,gru1qJYLI-E,278173 Business Problems Involving Correlation 1
-27,np8Qe_r-_0Q,278160 Quantitative Variables  Univariate Analysis 2
-28,gztZg65GMjk,278167 Quick way of Segmentation
-29,fwui-fUca4s,278172 Bivariate Analysis on Continuous Variables
-30,HvaN2Yj0Ao4,278160 Quantitative Variables  Univariate Analysis 1
-31,OZWUlACaU3E,278166 Basis of Segmentation
-32,qQSwxaTJjW4,278159 Ordered Categorical Variables  Univariate Analysis 2
-33,pyUzKcnw2Ls,278165 Introduction to Segmented Univariate Analysis
-34,wxtLK20SNpI,278159 Ordered Categorical Variables  Univariate Analysis 1
-35,Q0Bt5BtVE9U,278158 Unordered Categorical Variables  Univariate Analysis 2
-36,-VnbKQVeoVE,278158 Unordered Categorical Variables  Univariate Analysis 1
-37,mXSL44t4VKU,278157 Data Description
-38,5Bzg2BtxMvg,278127 p value Method
-39,kEDnvELijIA,278130 Summary
-40,wp06Pzb5Vks,278129 Types of Errors
-41,WpSKv4l6xUM,278128  pvalue Method Examples
-42,2TGGay3_R_w,278153 Invalid Values
-43,Z7qR-2CKpww,278146 Public Data 1
-44,qDPc2pdqHwQ,278152 Standardising Values 2
-45,bPje_GTdM74,278123 Critical Value Method   Examples 3
-46,iN93rNTlc2k,278152 Standardising Values 1
-47,EqqDTaEE1j4,278145 Private Data 2
-48,yAHSuL5sPcM,278140 Industry Relevance 2
-49,2V9Ry6_a6rA,278151 Missing Values
-0,bXRIbfRCIig,278123 Critical Value Method   Examples 2
-1,jHr503-jUCE,278150 Fixing Rows and Columns
-2,BxxpKw0W9Wg,278123 Critical Value Method   Examples 1
-3,0goPhr0wL0w,278140 Industry Relevance 1
-4,wh0oC6KgFlo,278145 Private Data 1
-5,jkCWojfr5II,278144 Public and Private Data
-6,22IF2RRZLAo,278122 Critical Value Method 2
-7,CwnN2I5xXh4,278138 A B Testing Demonstration 2
-8,wtmMFFJaFIc,278142 Introduction to EDA
-9,iv8GPCTHcJQ,278122 Critical Value Method 1
-10,ymb1t3w5PyA,278138 A B Testing Demonstration 1
-11,IyoZO7VnjUE,278137 Two Sample Proportion Test
-12,RFbs2-FcdIE,278136 Two Sample Mean Test 2
-13,NZiwFCIDLKE,278136 Two Sample Mean Test 1
-14,IuAYDPiM8OY,278121 Making a Decision 2
-15,uXsqxriIDd0,278135 T Distribution
-16,nCsc2dQH3iY,278121 Making a Decision 1
-17,9YsIZKn_CTg,278120 Null and Alternate Hypotheses 2
-18,OmLOjQ0BKdk,278120 Null and Alternate Hypotheses 1
-19,HDlNa-6Yxos,278077 Basics of Probability Introduction  Inferential Statistics
-20,6LE4NU1gisU,278079 Basics of ProbabilityRandom Variables
-21,Df6UNOe-74c,278119 Understanding Hypothesis Testing 2
-22,C0ZgMz45o2I,278079 Basics of ProbabilityRandom Variables 2
-23,koD8Qi2eQ-k,278119 Understanding Hypothesis Testing 1
-24,cmeudA1lSNw,278080 Basics of ProbabilityProbability Distributions   I
-25,rD6g95vP6jk,278082 Basics of ProbabilityExpected Value   I 1
-26,M9tRUcSiViI,278082 Basics of ProbabilityExpected Value   I 2
-27,nN-SWDsCFm0,"Counting, permutations, and combinations"
-28,LtgeyC1o0r4,278197 Power Law
-29,9ZEhxo04uU8,278198 Election Data Case Study I
-30,9ZIbSiZHOJc,278198 Election Data Case Study II
-31,9bzlL2V8u1g,278068 The CRISP DM FrameworkModel Evaluation and Deployment
-32,xl4n7ZGFyTY,278067 The CRISP DM FrameworkModelling
-33,tyBXuL536ug,278066 The CRISP DM FrameworkPreparing Data for Analysis
-34,eGwYYH7ycJA,278065 The CRISP DM FrameworkUnderstanding Raw Data
-35,8VZOTPXNUlg,278063 The CRISP DM Framework
-36,LmtMa5UNL6s,278063 The CRISP DM Framework lifecycle
-37,syhEEw5QPqY,Succeeding with PGDML & AI
-38,m0q74FyxDJw,697988 ML vs AI
-39,B8Z3uATQ9vM,278021 Reinforcement Learning
-40,u1V-szjctNs,278020 Graphical Models
-41,GEpip1otvAE,278019 Deep Learning
-42,yqvtY7ESjh0,221383 Optimisation in Window Function
-43,LbL3YU4tzJQ,221352 Multi Join
-44,pLtcKx_CEP8,221383 Optimisation in Joins
-45,srRpxEpg0cE,221351 Inner Join
-46,UcMgs76h9dM,221381 Optimisation in Group by and Order by
-47,EJ2Zez9tPvI,221350 Nested Queries
-48,bgdDrPFfyJ8,221380 Optimisation in Where Clause
-49,tkQQWDBe_uQ,221379 Optimisation in Select Clause
-0,Wxh1GC6nFh8,221349 Having Clause
-1,YwEIBN_H8nA,221346 Order by Clause
-2,D49YuBGu898,221376 Stored Procedures Application
-3,nqX1lg5KRZ0,221362 String Manipulation
-4,FBUxHauIdzc,221342 Basics of Sorting
-5,ZA3ZK2fvVdU,221375 Introduction to Stored Procedures
-6,sEgr1cihNyc,221361 Changing Constraints Foreign key
-7,-sjgJHpX4S0,221361 Changing Constraints Foreign key
-8,kNBMY2aRw5s,221360 Changing Constraints Primary key
-9,5pT-fVstq7A,221341 Pattern Matching with Wildcards
-10,dFfZEp-Cax4,221374 User defined functions Application
-11,YreSDY59eoM,221340 Compound Functions and Relational Operators
-12,PpiAAQ-tZRQ,7 221390 Data Warehouse Schema  Industry Example
-13,J6B7k7c1PvI,221373 Introduction to User defined Functions
-14,Eswivm6vt1k,6 221389 How to Use a Star Schema   A Demonstration
-15,6ZhFqjJmkPA,221339 Data Retrieval with SQL 2
-16,rSwik1XjDwM,221369 Named Windows
-17,LaCD4aNaagw,221339 Data Retrieval with SQL 1
-18,cwUeQqBk4lQ,221338 Basics of SQL 3
-19,6ljy8L8Dwoo,221338 Basics of SQL 2
-20,RcZr1gAMyWo,221368 Frames
-21,2edJV7bDEDk,4 221385 OLAP vs  OLTP
-22,awAsfnBs1cM,3 221387 Structure of Data Warehouse
-23,k_TRkVLMZYM,221338 Basics of SQL 1
-24,RBPedXGKshY,221367 Introduction to Windowing Functions
-25,0m9RczP_rGE,2 221388 Star Schema
-26,TZpDjo3d6As,221353 Outer Join
-27,qJFT8lD-HEU,Cross product introduction   Vectors and spaces   Linear Algebra   Khan Academy   YouTube
-28,lsPQySQJAjc,Defining the angle between vectors   Vectors and spaces   Linear Algebra
-29,X_Ctsfs6bz4,"Eigenvectors and eigenvalues   Essence of linear algebra, chapter 14   YouTube"
-30,LFQTX07znKA,Dot and cross product comparison intuition   Vectors and spaces   Linear Algebra   Khan Academy   Yo
-31,VWnOGSFeW5M,221337 An introduction to RDBMS and SQL 2
-32,Ars8YPBaWLM,221331 Plotting Distributions Across Categories 2
-33,DI5ybV5I6rg,221321 Sub Plots
-34,JLoXFzEDcoY,221358 Adding and Deleting Columns
-35,KUlpfByJ4nw,221348 Group by Clause
-36,8a3FNlr9_Nw,221320 Components of a Plot
-37,G6iLDoLtpgM,221331 Plotting Distributions Across Categories 1
-38,aVicpWfvdns,1 221391  Defining Data Warehouse
-39,O-dVFjNIo9w,221319 Data Visualisation Toolkit
-40,A3q6ihThnIM,221347 Aggregate Functions
-41,bzZDVLd36XQ,221328 Bivariate Distributions   Plotting Pairwise Relationships
-42,brNaaAoMx08,221316 Understanding Basic Chart Types II
-43,sBtlDiBl5Nc,221337 An introduction to RDBMS and SQL 1
-44,LR_N8OKuoCM,221315 Understanding Basic Chart Types I
-45,UAW8E8q7474,221327 Bivariate Distributions
-46,lXXznd4d2M0,221314 Visualisations   The World of Imagery
-47,exi2DAW3xDU,221326 Univariate Distributions   Rug Plots
-48,UD1Eo3tal-0,221313 Data Visualisation Examples 3
-49,gU__BW8GaEY,221325 Univariate Distributions
-0,2HYrVQpMk3c,221313 Data Visualisation Examples 2
-1,C89FJrRqL6A,221313 Data Visualisation Examples 1
-2,0bUg7yeWk-0,221269 Lambda function & Pivot tables 3
-3,gc6HbHl6ez0,221269 Lambda function & Pivot tables 2
-4,9vBiQUaKqTA,221269 Lambda function & Pivot tables 1
-5,27Yu5M8859I,221246 Control Structures and Functions Func 3
-6,MKl1VQuOOEc,221268 Grouping and Summarizing Dataframes 2
-7,vJLZjeFm0n4,221276 Cleaning Datasets 4
-8,XAUEYfWQJKI,221246 Control Structures and Functions Func 2
-9,Y2IUO52_0HE,221268 Grouping and Summarizing Dataframes 1
-10,6i9Bry2Pf74,221267 Merge and Append 2
-11,pvIW4qD2eKk,221262 Basic Linear Algebra Operations
-12,uWYzLzTU1MQ,221261 Operations on Arrays
-13,KZPc-f8BFUw,221276 Cleaning Datasets 3
-14,NLG4lsZVmbI,221246 Control Structures and Functions Func 1
-15,VoSqPqq7G0o,221267 Merge and Append 1
-16,z2qMfJ3Cy3E,221260 Basic Array Operations
-17,H2qemIXC_xA,221266 Indexing and Selecting Data 3
-18,aTxc_6XptDU,Vector dot product and vector length   Vectors and spaces   Linear Algebra
-19,ypggaRDFowU,221276 Cleaning Datasets 2
-20,IyEqXvqe2J4,221257 Computation Times in NumPy and Standard Python Lists
-21,s9a3AmwPAMQ,"The determinant   Essence of linear algebra, chapter 6 Imortant!!!"
-22,u_eqk7r74FQ,221245 Control Structures and FunctionsComprehensions
-23,x4_F8J4aksc,"Liner combinations ,Vectors, what even are they chapter 1"
-24,UfHbQGEMbxw,221276 Cleaning Datasets 1
-25,PxtSNGB8rX4,221236 Python Basic VII Sets
-26,ANQZvTSg_74,221245 Control Structures and FunctionsComprehensions 2
-27,MEF7ztfCAtw,"Linear transformations and matrices   Essence of linear algebra, chapter 3 !!!!!!"
-28,NFo6YgwH9bc,221266 Indexing and Selecting Data 2
-29,_XihkBglJ24,221256 Multidimensional Arrays
-30,IftUFd0nA9A,221275 Reading Data From PDF Files
-31,XYAnOIuRVyw,"Linear combinations, span, and basis vectors   Essence of linear algebra, chapter 2"
-32,gTNndc2REwk,"Inverse matrices, column space and null space   Essence of linear algebra, chapter 7"
-33,I5oXdGKeM0E,Thinking about multivariable functions   contour plots
-34,egh_PWSYdLI,Idea behind inverting a 2x2 matrix   Matrices   Precalculus   Khan Academy
-35,9Cpiyga8fTk,"221255 Subset, Slice, Index and Iterate through Arrays"
-36,ehivzN8IEAQ,The Jacobian matrix   YouTube
-37,cmwWJhmNsLU,221244 Control Structures and FunctionsLoops
-38,6LNwHHxdMO8,The Hessian matrix   YouTube
-39,wb7neqOgs6Y,The graphical relationship between a function & its derivative part 2
-40,4df1NiQUA-0,221236 Python Basic V List2
-41,nq2p9UQNv2o,The graphical relationship between a function & its derivative part 1   Khan Academy   YouTube
-42,wDIxT1e0kDQ,"Partial derivatives, introduction   YouTube"
-43,OWi9BQEVXFk,221266 Indexing and Selecting Data 1
-44,RybFEfVapmI,221244 Control Structures and FunctionsLoops 2
-45,7aS7xmJSk1g,Multivariable chain rule   YouTube
-46,Td3FSwwasOs,"Dot products and duality   Essence of linear algebra, chapter 9   YouTube"
-47,1zLiEntjLbw,221274 Getting Data From APIs
-48,8sMpyzoesSw,Critical points introduction   AP Calculus AB   Khan Academy   YouTube
-49,X-Tdqf6Gh2A,221254 Structure and Content of Arrays
-0,KvHm5hg1lNA,Chain rule   Derivative rules   AP Calculus AB   Khan Academy   YouTube
-1,bcYxDDjGvYI,Calculus  Derivatives 2   Taking derivatives   Differential Calculus   Khan Academy   YouTube
-2,w4IZFbCuoEs,221265 Pandas Basics 3
-3,3QDkh_uheLg,Analyzing a function with its derivative   AP Calculus AB   Khan Academy   YouTube
-4,6KhquXPvy4U,221236 Python Basic IV List
-5,b4gl9S9c97I,221273 Reading Data From Websites
-6,eBWZUnjUktM,221253 Creating NumPy Arrays
-7,cXEcqDOfidg,"221243 Control Structures and FunctionsIf ,Elif ,Else"
-8,B8sgIoKAp0I,221236 Python Basic III Array
-9,ay0_ZJsamLA,221236 Python Basic IIStr
-10,T962f8493dc,221265 Pandas Basics 2
-11,GmtSwaxroQg,221252 NumPy Basics 3
-12,ucgJ44HnhVY,221272 Reading Delimited and Relational Databases
-13,8U7CpEMLVzc,221239 Python Basic VI Dict
-14,ODmj2q6xwRA,221236 Python Basic I
-15,INojwGCTCBQ,221252 NumPy Basics 2
-16,Zlr2601d2JY,221265 Pandas Basics 1
-17,umrOlLf953o,221235 Introduction to Jupyter Notebook II
-18,k334a7JDKkU,221235 Introduction to Jupyter Notebook I
-19,UCMvhggV5g4,221252 NumPy Basics 1
-20,T8qYDlg7HxQ,221239 Python Basic V Dict
-21,AHL1UgDPwX4,"111247 Control Structures and FunctionsMap, Filter, and Reduce 3"
-22,3Q-CPofdtAY,221238 Python Basic VI Touples
-23,0dVAhQNAICs,"111247 Control Structures and FunctionsMap, Filter, and Reduce 2"
-24,KHBJeAhUnU0,"111247 Control Structures and FunctionsMap, Filter, and Reduce 1"
+id,title
+7Cn6qrFj5qQ,328595 Choosing between Trees and Random Forests II
+ZXYSg0O4tK4,328594 Choosing between Trees and Random Forests I 2
+nw79PN8-j08,328594 Choosing between Trees and Random Forests I 1
+6YSiMc_SLPk,328593 CART and CHAID Trees
+VUQnfHIDQ7o,328592 End to End Modelling  I
+Jsn8HmqBqlQ,328591 Pros and Cons of Different Machine Learning Models 2
+m6fc08KDwkk,328591 Pros and Cons of Different Machine Learning Models 1
+sDFyjZ5sNz4,328590 Comparing Different Machine Learning Models  II
+EJBGY8O--Uc,328589 Comparing Different Machine Learning Models I 2
+s_i5dXULEeM,328589 Comparing Different Machine Learning Models I 1
+CzueCw4NGOc,328587 Understanding the Business Problem 2
+omwtNz4AX08,328587 Understanding the Business Problem 1
+E51inoAQtPs,328584 Summary
+JB_O5Zab4IY,328582 Random Forests Lab 4
+FW6CcpeJF-A,328582 Random Forests Lab 3
+_2MyYJZnO0E,328582 Random Forests Lab 2
+xT1TC_ZkHMQ,328582 Random Forests Lab 1
+PCcLXnCOxGk,328579 Creating a Random Forest 2
+HhKvCZZVSzs,328579 Creating a Random Forest 1
+PzEf9_uf9bE,328577 Ensembles 2
+sdV0L-69sS4,328577 Ensembles 1
+yk7uJYvL8Ec,328571 Choosing Tree Hyperparameters in Python 4
+HULZRYZyx2w,328571 Choosing Tree Hyperparameters in Python 3
+AuR8tStl0b4,328571 Choosing Tree Hyperparameters in Python 2
+_4-18LodYRA,328571 Choosing Tree Hyperparameters in Python 1
+ZE-Uk5EBQAQ,328570 Building Decision Trees in Python 4
+YoqEdOE2SOI,328570 Building Decision Trees in Python 3
+zAFT6UT8M4o,328570 Building Decision Trees in Python 2
+82meQotR8G4,328570 Building Decision Trees in Python 1
+vZpn9pNgXaE,328569 Tree Pruning 2
+VlHfFWzZEI8,328569 Tree Pruning 1
+OnuNqfzfLjc,328568 Tree Truncation 2
+iZbswxl-hkg,328567 Advantages and Disadvantages 1
+mFfw__hTUbE,328564 Splitting by Rsquared
+0O4U5Jlxjts,328562 Entropy and Information Gain 2
+7InO5ode0yU,328562 Entropy and Information Gain 1
+McxjXcvkXao,328561 Gini Index 2
+qY2fadfWZgE,328561 Gini Index 1
+G-kxEpM2X50,328560 Concept of Homogeneity 3
+rFqMX9SESUU,328557 Regression with Decision Trees
+EzL3Eyr-Kds,328568 Tree Truncation 1
+mu1ZGrWjN8E,328560 Concept of Homogeneity 2
+8U4K3_pN494,328555 Interpreting a Decision Tree 2
+3k1I2QBDCuo,328555 Interpreting a Decision Tree 1
+LXDlbnfqhIE,328560 Concept of Homogeneity 1
+0f5wzmmWy2w,328554 Introduction to Decision Trees 2
+jntx4gmovxI,328554 Introduction to Decision Trees 1
+2uQQFn1EeYE,328546 Letter Recognition Using SVM 4
+VeXslODzt40,328546 Letter Recognition Using SVM 3
+mhR1V2u_GxM,328546 Letter Recognition Using SVM 2
+7ocCCxcnqxQ,328546 Letter Recognition Using SVM 1
+b2IG0cWpemY,328545 Choosing a Kernel Function
+jzeJ858yWWM,328543 Building Nonlinear Models in Python 4
+8-ayXLcWFQ8,328543 Building Nonlinear Models in Python 3
+oRuL0JkrLn8,328534 SVM Python Lab II 4
+0cqf27F7-mc,328534 SVM Python Lab II 3
+TH4Yhiciv6Q,328543 Building Nonlinear Models in Python 2
+M9PwA7SwZPg,328534 SVM Python Lab II 2
+l_rr3lE2DOE,328543 Building Nonlinear Models in Python 1
+XXaeI0G0dn4,328534 SVM Python Lab II 1
+_0wKWpjbo3s,328542 The Kernel Trick
+ucg5rQVLAqc,328533 SVM Python Lab I 4
+DpFZcOxtZ1o,328533 SVM Python Lab I 3
+cueFMRFoslc,328541 Feature Transformation
+bYFXfgtM8z4,328533 SVM Python Lab I 2
+UYejGI22PMg,328533 SVM Python Lab I 1
+qbgMJkzjMPA,328532 Cost of Misclassification
+ly8evhOjn5M,328540 Mapping Nonlinear Data to Linear Data
+LomhV0GIVUw,328525 Maximal Margin Classifier 2
+jrZY8zQyr8w,328539 Introduction to Kernels
+OZTld0hkq3E,328525 Maximal Margin Classifier 1
+eGjbtpqY7mc,328530 The Slack Variable
+NG5iV9oxmVM,328529 The Soft Margin Classifier 2
+rBG1dY7p1gw,328524 Concept of a Hyperplane in 3D 3
+M81RJZelIew,328524 Concept of a Hyperplane in 3D 2
+VPN777X_4RM,328529 The Soft Margin Classifier 1
+Fty3jTRrhZ0,328524 Concept of a Hyperplane in 3D 1
+HcPX5CSW2Rg,328522 Concept of a Hyperplane in 2D
+ShhqTcyQDVo,328521 Introduction to SVM 2
+XWNypMIoDPk,328521 Introduction to SVM 1
+Lbu_cKmPxkI,295913 Cross Validation Hyperparameter Tuning 4
+omF4TZ7j0tA,295913 Cross Validation Hyperparameter Tuning 3
+o7BwLzyUNjQ,295904 Regularization
+nA3lnQzBXL8,295913 Cross Validation Hyperparameter Tuning 2
+T9KXFj8jyAA,295902 BiasVariance Tradeoff
+8IQ7Dz7HLlw,295913 Cross Validation Hyperparameter Tuning 1
+MjQkcyGTpjs,295912 Cross Validation Python Demonstration
+K12KVmGyAn0,"295901 Simplicity, Complexity and Overfitting 3"
+BTdasPWn7x4,295911 Cross Validation Motivation 2
+T3I4vlPada8,"295901 Simplicity, Complexity and Overfitting 2"
+I7m33ipwUJI,295911 Cross Validation Motivation 1
+PGNVYIcXSEw,"295901 Simplicity, Complexity and Overfitting 1"
+i5FVyAlU14g,295909 Model Evaluation Python Demonstration II
+JlspgYO4jic,295900 Model and Learning Algorithm 2
+iPW6X0ROwZM,295909 Model Evaluation Python Demonstration I 2
+lat8HcIAAMg,295909 Model Evaluation Python Demonstration I 1
+KtAogqu-p5o,295900 Model and Learning Algorithm 1
+2jOm3O97trU,295899 Introduction to Model Selection 2
+y5ykRKHb2HU,295907 Regularization and Hyperparameters
+DEL-oNaP2IE,295899 Introduction to Model Selection 1
+eKQSepZuv2M,295888 Python Lab Education Or Cinema 1
+IZpoTwpj3jw,295890 Python Lab SMS Spam Ham Classifier Bernoulli
+QsDzQ9xcYCM,295887 Quick Introduction to Bernoulli Naive Bayes
+djXSUyo6zlQ,295889 Python Lab  SMS Spam Ham Classifier  Multinomial 3
+SyRylIx92jE,295886 Laplace Smoothing 2
+lBHyXv56Ll4,295889 Python Lab  SMS Spam Ham Classifier  Multinomial 2
+SvRJIGN794E,295886 Laplace Smoothing 1
+alYNVvoMLNA,295885 Document Classifier Worked out Example 3
+wnknANcF6Vc,295889 Python Lab  SMS Spam Ham Classifier  Multinomial 1
+a6H7oZaIVQI,295885 Document Classifier Worked out Example 2
+u0DgbeRT24Y,295888 Python Lab Education Or Cinema 3
+YWSo5mNhcVs,295885 Document Classifier Worked out Example 1
+Tkv8kG_Ws_0,295884 Document Classifier Pre Processing Steps 3
+St2Ej5F20pY,295884 Document Classifier Pre Processing Steps 2
+6m_XNRpdbiU,295888 Python Lab Education Or Cinema 2
+LX_PRfc1BHo,295884 Document Classifier Pre Processing Steps 1
+as965r8Cv5E,295883 Introduction Naive Bayes for Text Classification
+t68bZudM_pk,295880 Deciphering Naive Bayes 2
+i5gRPKizfnE,295880 Deciphering Naive Bayes 1
+JNZAcB_4tJU,295879 Conditional Independence in Naive Bayes
+VPBO9KXjuoY,295873 Bayes Theorem
+6DR8m66e-hs,295877 Naive Bayes With One Feature 2
+09pWE8r2CDs,295877 Naive Bayes With One Feature 1
+Zy5SKt3ODh4,295872 Conditional Probability and Its Intuition 2
+SxN0K_mrxDc,295872 Conditional Probability and Its Intuition 1
+5pPZhIWP1fw,295871 Introduction Naive Bayes
+e2DSLBHJxoU,295857 Nuances of Logistic Regression Variable Transformation III
+QPhTMmkLYUE,295849 Summary
+GbCMbtc6Ez8,295856 Nuances of Logistic Regression Variable Transformation II 2
+6OA3SUCCqUY,295848 Making Predictions
+ni2Z1CH6ug4,295847 Precision and Recall 3
+5jANZfK6fZk,295847 Precision and Recall 2
+J9U9J9xHiAA,295856 Nuances of Logistic Regression Variable Transformation II 1
+-MYOXFQ9VxI,295864 Tracking of Model Performance Over Time
+UrZJv4TR2p0,295863 Model Validation and Importance of Stability 2
+JIFDqrgkGew,295847 Precision and Recall 1
+fTU7N7Ff5ws,295855 Nuances of Logistic Regression Variable Transformation I
+eLQ_sn3fNOE,295845 Finding the Optimal Threshold
+68UnydN1Vyc,295837 Manual Feature Elimination
+UBuQZdjBhqw,295836 Confusion Matrix and Accuracy
+H2sDqcj6Pyk,295854 Nuances of Logistic Regression Segmentation
+aBCjtwUueOA,295844 ROC Curve in Python
+-05H5bEI9JI,295863 Model Validation and Importance of Stability 1
+YhWBHhUtlGU,295835 Feature Elimination using RFE
+do0dzihR8dM,295862 Model Evaluation A Second Look
+5COx0V4QNug,295843 ROC Curve 3
+u2G_ye2vk0k,295834 Building your First Model 2
+Y486I1PJs5I,295853 Nuances of Logistic Regression Sample Selection
+Jo-TDdZeLJY,295861 Commonly Faced Challenges in Implementation of Logistic Regression
+0p15yxNDegU,295834 Building your First Model 1
+Sf9O9Mdwt5w,295852 Getting familiar with Logistic Regression 2
+U_F2DsSjdSc,295843 ROC Curve 2
+HJk6p6Nyjg4,295833 Data Cleaning and Preparation II 2
+n8ycwTbTM7U,295828 Odds and Log Odds 2
+p1WYZjMl0xM,295852 Getting familiar with Logistic Regression 1
+WSVcHjvbZZE,295843 ROC Curve 1
+hVoYhdugwd8,295828 Odds and Log Odds 1
+ePs91My-goY,295833 Data Cleaning and Preparation II 1
+llWAyoVFG2I,295842 Sensitivity and Specificity in Python
+0rHQAc4P3SQ,295827 Finding the Best Fit Sigmoid Curve II
+koEs1iM7OQ8,295832 Data Cleaning and Preparation I 2
+n65yEYRZqy8,295832 Data Cleaning and Preparation I 1
+5iqXxTtchPA,295826 Finding the Best Fit Sigmoid Curve I 2
+oNpO5_nYn68,295826 Finding the Best Fit Sigmoid Curve I 1
+hzVTuN4ZM-k,295825 Sigmoid Curve 2
+k2Kj7NwFyWM,295825 Sigmoid Curve 1
+rLnshjgCT8A,295824 Binary Classification 2
+fk5eFDweqwQ,295824 Binary Classification 1
+fawVmGNM-1U,328511 Model Selection CriteriaII 1
+Ut157JFUpC0,328510 Model Selection Criteria I 3
+HxT_CWhlokw,328516 Summary
+zWFUxlhzxbU,328510 Model Selection Criteria I 2
+2r-bZcJm3t4,328512 Feature Selection 2
+om9wbaOh4So,328510 Model Selection Criteria I 1
+6FcJbkr-xFY,328512 Feature Selection 1
+D_fg9WV8xAI,328509 Ridge and Lasso Regression in Python 3
+kC00NSCokks,328511 Model Selection CriteriaII 3
+hm6oMN1MccI,328509 Ridge and Lasso Regression in Python 2
+sm8jeGd4JGc,328511 Model Selection CriteriaII 2
+ci3CDAWs92w,328509 Ridge and Lasso Regression in Python 1
+fq1j0lB0TFY,328508 Ridge and Lasso Regression II
+fgcnNW8G4C0,328507 Ridge and Lasso Regression I 2
+J0BxdUWOalg,328507 Ridge and Lasso Regression I 1
+xtF-eU7Sde4,328506 Regularized Regression
+Q252SOPRXC8,328503 Summary
+5jn7AL6apeU,328502 Generalized Regression in Python
+D_Cl_FIRH1Q,328501 Generalized Regression Framework III
+-4dZx395Eh8,278154 Filtering Data
+A_Mh4btPU1s,278146 Public Data 2
+QjdhACIL0bc,221333 Time Series Data 2
+EH1bYRYeKig,221333 Time Series Data 1
+kO4GW3UoGXc,221332 Plotting Aggregate Values Across Categories 2
+EKwLfBi_eO4,221332 Plotting Aggregate Values Across Categories 1
+aUisRv6fyP0,221322 Functionalities of Plots
+FS5a6MsBops,328500 Systems of Linear Equations KH
+El4ESmC40iw,328499 Generalized Regression Framework II
+FX1gcYcRwls,328498 Generalized Regression Framework I 2
+igT7KTinlSM,328498 Generalized Regression Framework I 1
+Pb6zOMabUkE,328497 Generalized Regression
+51DVE0aTgcI,295812 Interpreting the Results
+Jnlqhrz7BYY,295811 Assessing the Model 2
+L5LBR-jSw00,295811 Assessing the Model 1
+4JbVCx_uZtQ,295810 Model Building III
+oHkyzvtBWSU,295809 Model Building II
+RKKAMWaiS2g,295808 Model Building I
+V8hoVtDJDsA,295807 Exploratory Data Analysis
+zO01GS-x5p4,295806 Media Company Case Study 2
+wDhyK84ZgT0,295806 Media Company Case Study 1
+iBhmLXM76KU,295805 Prediction vs Projection 2
+2v3gBsg1U6g,295805 Prediction vs Projection 1
+uyZf9HP5F7Q,295804 Linear Regression Revision 2
+xLFq3zSntEE,295804 Linear Regression Revision 1
+fRDQ1637oYU,295800 Summary
+6gnOEIHwDy4,295799 Variable Selection using RFE 3
+tSM5-R7kwCg,295799 Variable Selection using RFE 2
+SP55YChcLsY,295799 Variable Selection using RFE 1
+3s-noz9Cq9w,295798 Residual Analysis and Predictions 3
+F5wUYGPan3E,295798 Residual Analysis and Predictions 2
+RDjnlTetWqg,295798 Residual Analysis and Predictions 1
+o4oJarNygzE,295797 Building the Model II 2
+0SRLdhAQXek,295797 Building the Model II 1
+ELtY6fE7N94,295796 Building the Model I
+7m7PLFKUZ2c,295795 Initial Steps 3
+9UxPjBYmW74,295795 Initial Steps 2
+exTaLIm1xsk,295795 Initial Steps 1
+LuN8CG1pLgc,295794 Data Preparation 2
+41koSE2QVM0,295794 Data Preparation 1
+rlQg3JCETrs,295793 Reading and Understanding the Data 3
+e18w2mItCwY,295793 Reading and Understanding the Data 2
+Ley9ghoSKmg,295793 Reading and Understanding the Data 1
+oWtraykSWEg,295788 Feature Selection 2
+ue_MVH9hC9w,295788 Feature Selection 1
+Kq1lU16qZs0,295787 Model Assessment and Comparison
+IXFxykKJWpA,295786 Dealing with Categorical Variables 2
+qGjiZHAqay4,295786 Dealing with Categorical Variables 1
+eywSGipg1-w,295785 Multicollinearity 3
+M9sAto6AQSY,295785 Multicollinearity 2
+KSV-eBTF0uY,295785 Multicollinearity 1
+CHNIUuKgt_8,295784 Moving from SLR to MLR New Considerations
+rCOzBsS0Jw4,295783 Motivation When One Variable isnot Enough 2
+9pyy5pjp8nw,295783 Motivation When One Variable isnot Enough 1
+wD8E7ECQq70,295778 Linear Regression using SKLearn
+2-y8GfZt-8I,295777 Residual Analysis and Predictions 2
+9Pks3Zq6dbY,295777 Residual Analysis and Predictions 1
+Zyj2hTrxMeQ,295776 Building a Linear Model 3
+uJhiFmCx5V8,295776 Building a Linear Model 2
+LQEz8U7poQI,295776 Building a Linear Model 1
+tPL8IUYc5vE,295774 Reading and Understanding the Data
+rxSSwEOz27U,295773 Assumptions of Simple Linear Regression
+3SqACogM_ZI,295772 Introduction
+hrwrfkHH6tI,295768 Strength of Simple Linear Regression 3
+2Wmmz1mP81E,295768 Strength of Simple Linear Regression 2
+HF84fDWqa_M,295768 Strength of Simple Linear Regression 1
+JJRqUStJ2jc,295767 Best Fit Line 3
+tGJrvZtPwkY,295767 Best Fit Line 2
+ewWJKuXIxEQ,295767 Best Fit Line 1
+0SKt8upjN7o,295766 Regression Line 2
+_0xNcTDTqqk,295766 Regression Line 1
+SXFNmN9cj6o,295765 Introduction to Machine Learning 3
+_EKfjiWyuCA,295765 Introduction to Machine Learning 2
+O_ZjAAuo2xE,295765 Introduction to Machine Learning 1
+aj7rsVhbLXQ,295763 Overview
+YjSVza6NPoQ,278186 Module Summary
+J4BvX8PXtB0,278184 Summary
+Pt_U0Pelsdk,278183 Types of Derived Metrics Data Driven Metrics
+No2Vq-TzFo0,278176 Summary
+3hDgc1V-S30,278181 Types of Derived Metrics Business Driven Metrics
+vdkTrAbEj1A,278162 Summary
+obf25vtVH4o,278180 Types of Derived Metrics  Type Driven Metrics 2
+-HZ8xv_Vt3Q,278175 Bivariate Analysis on categorical variables
+zs6slzCeDN0,278161 Quantitative Variables Summary Metrics
+C8WZb4LX-rs,278180 Types of Derived Metrics  Type Driven Metrics 1
+xAb4wXPMJWM,278173 Business Problems Involving Correlation 2
+PJbYth-pIyU,278169 Comparison of Other Metrics
+gHhkVdZkwkE,278179 What are Derived Metrics
+BtJfnTIYt3M,278168 Comparison of Averages
+gru1qJYLI-E,278173 Business Problems Involving Correlation 1
+np8Qe_r-_0Q,278160 Quantitative Variables  Univariate Analysis 2
+gztZg65GMjk,278167 Quick way of Segmentation
+fwui-fUca4s,278172 Bivariate Analysis on Continuous Variables
+HvaN2Yj0Ao4,278160 Quantitative Variables  Univariate Analysis 1
+OZWUlACaU3E,278166 Basis of Segmentation
+qQSwxaTJjW4,278159 Ordered Categorical Variables  Univariate Analysis 2
+pyUzKcnw2Ls,278165 Introduction to Segmented Univariate Analysis
+wxtLK20SNpI,278159 Ordered Categorical Variables  Univariate Analysis 1
+Q0Bt5BtVE9U,278158 Unordered Categorical Variables  Univariate Analysis 2
+-VnbKQVeoVE,278158 Unordered Categorical Variables  Univariate Analysis 1
+mXSL44t4VKU,278157 Data Description
+5Bzg2BtxMvg,278127 p value Method
+kEDnvELijIA,278130 Summary
+wp06Pzb5Vks,278129 Types of Errors
+WpSKv4l6xUM,278128  pvalue Method Examples
+2TGGay3_R_w,278153 Invalid Values
+Z7qR-2CKpww,278146 Public Data 1
+qDPc2pdqHwQ,278152 Standardising Values 2
+bPje_GTdM74,278123 Critical Value Method   Examples 3
+iN93rNTlc2k,278152 Standardising Values 1
+EqqDTaEE1j4,278145 Private Data 2
+yAHSuL5sPcM,278140 Industry Relevance 2
+2V9Ry6_a6rA,278151 Missing Values
+bXRIbfRCIig,278123 Critical Value Method   Examples 2
+jHr503-jUCE,278150 Fixing Rows and Columns
+BxxpKw0W9Wg,278123 Critical Value Method   Examples 1
+0goPhr0wL0w,278140 Industry Relevance 1
+wh0oC6KgFlo,278145 Private Data 1
+jkCWojfr5II,278144 Public and Private Data
+22IF2RRZLAo,278122 Critical Value Method 2
+CwnN2I5xXh4,278138 A B Testing Demonstration 2
+wtmMFFJaFIc,278142 Introduction to EDA
+iv8GPCTHcJQ,278122 Critical Value Method 1
+ymb1t3w5PyA,278138 A B Testing Demonstration 1
+IyoZO7VnjUE,278137 Two Sample Proportion Test
+RFbs2-FcdIE,278136 Two Sample Mean Test 2
+NZiwFCIDLKE,278136 Two Sample Mean Test 1
+IuAYDPiM8OY,278121 Making a Decision 2
+uXsqxriIDd0,278135 T Distribution
+nCsc2dQH3iY,278121 Making a Decision 1
+9YsIZKn_CTg,278120 Null and Alternate Hypotheses 2
+OmLOjQ0BKdk,278120 Null and Alternate Hypotheses 1
+HDlNa-6Yxos,278077 Basics of Probability Introduction  Inferential Statistics
+6LE4NU1gisU,278079 Basics of ProbabilityRandom Variables
+Df6UNOe-74c,278119 Understanding Hypothesis Testing 2
+C0ZgMz45o2I,278079 Basics of ProbabilityRandom Variables 2
+koD8Qi2eQ-k,278119 Understanding Hypothesis Testing 1
+cmeudA1lSNw,278080 Basics of ProbabilityProbability Distributions   I
+rD6g95vP6jk,278082 Basics of ProbabilityExpected Value   I 1
+M9tRUcSiViI,278082 Basics of ProbabilityExpected Value   I 2
+nN-SWDsCFm0,"Counting, permutations, and combinations"
+LtgeyC1o0r4,278197 Power Law
+9ZEhxo04uU8,278198 Election Data Case Study I
+9ZIbSiZHOJc,278198 Election Data Case Study II
+9bzlL2V8u1g,278068 The CRISP DM FrameworkModel Evaluation and Deployment
+xl4n7ZGFyTY,278067 The CRISP DM FrameworkModelling
+tyBXuL536ug,278066 The CRISP DM FrameworkPreparing Data for Analysis
+eGwYYH7ycJA,278065 The CRISP DM FrameworkUnderstanding Raw Data
+8VZOTPXNUlg,278063 The CRISP DM Framework
+LmtMa5UNL6s,278063 The CRISP DM Framework lifecycle
+syhEEw5QPqY,Succeeding with PGDML & AI
+m0q74FyxDJw,697988 ML vs AI
+B8Z3uATQ9vM,278021 Reinforcement Learning
+u1V-szjctNs,278020 Graphical Models
+GEpip1otvAE,278019 Deep Learning
+yqvtY7ESjh0,221383 Optimisation in Window Function
+LbL3YU4tzJQ,221352 Multi Join
+pLtcKx_CEP8,221383 Optimisation in Joins
+srRpxEpg0cE,221351 Inner Join
+UcMgs76h9dM,221381 Optimisation in Group by and Order by
+EJ2Zez9tPvI,221350 Nested Queries
+bgdDrPFfyJ8,221380 Optimisation in Where Clause
+tkQQWDBe_uQ,221379 Optimisation in Select Clause
+Wxh1GC6nFh8,221349 Having Clause
+YwEIBN_H8nA,221346 Order by Clause
+D49YuBGu898,221376 Stored Procedures Application
+nqX1lg5KRZ0,221362 String Manipulation
+FBUxHauIdzc,221342 Basics of Sorting
+ZA3ZK2fvVdU,221375 Introduction to Stored Procedures
+sEgr1cihNyc,221361 Changing Constraints Foreign key
+-sjgJHpX4S0,221361 Changing Constraints Foreign key
+kNBMY2aRw5s,221360 Changing Constraints Primary key
+5pT-fVstq7A,221341 Pattern Matching with Wildcards
+dFfZEp-Cax4,221374 User defined functions Application
+YreSDY59eoM,221340 Compound Functions and Relational Operators
+PpiAAQ-tZRQ,7 221390 Data Warehouse Schema  Industry Example
+J6B7k7c1PvI,221373 Introduction to User defined Functions
+Eswivm6vt1k,6 221389 How to Use a Star Schema   A Demonstration
+6ZhFqjJmkPA,221339 Data Retrieval with SQL 2
+rSwik1XjDwM,221369 Named Windows
+LaCD4aNaagw,221339 Data Retrieval with SQL 1
+cwUeQqBk4lQ,221338 Basics of SQL 3
+6ljy8L8Dwoo,221338 Basics of SQL 2
+RcZr1gAMyWo,221368 Frames
+2edJV7bDEDk,4 221385 OLAP vs  OLTP
+awAsfnBs1cM,3 221387 Structure of Data Warehouse
+k_TRkVLMZYM,221338 Basics of SQL 1
+RBPedXGKshY,221367 Introduction to Windowing Functions
+0m9RczP_rGE,2 221388 Star Schema
+TZpDjo3d6As,221353 Outer Join
+qJFT8lD-HEU,Cross product introduction   Vectors and spaces   Linear Algebra   Khan Academy   YouTube
+lsPQySQJAjc,Defining the angle between vectors   Vectors and spaces   Linear Algebra
+X_Ctsfs6bz4,"Eigenvectors and eigenvalues   Essence of linear algebra, chapter 14   YouTube"
+LFQTX07znKA,Dot and cross product comparison intuition   Vectors and spaces   Linear Algebra   Khan Academy   Yo
+VWnOGSFeW5M,221337 An introduction to RDBMS and SQL 2
+Ars8YPBaWLM,221331 Plotting Distributions Across Categories 2
+DI5ybV5I6rg,221321 Sub Plots
+JLoXFzEDcoY,221358 Adding and Deleting Columns
+KUlpfByJ4nw,221348 Group by Clause
+8a3FNlr9_Nw,221320 Components of a Plot
+G6iLDoLtpgM,221331 Plotting Distributions Across Categories 1
+aVicpWfvdns,1 221391  Defining Data Warehouse
+O-dVFjNIo9w,221319 Data Visualisation Toolkit
+A3q6ihThnIM,221347 Aggregate Functions
+bzZDVLd36XQ,221328 Bivariate Distributions   Plotting Pairwise Relationships
+brNaaAoMx08,221316 Understanding Basic Chart Types II
+sBtlDiBl5Nc,221337 An introduction to RDBMS and SQL 1
+LR_N8OKuoCM,221315 Understanding Basic Chart Types I
+UAW8E8q7474,221327 Bivariate Distributions
+lXXznd4d2M0,221314 Visualisations   The World of Imagery
+exi2DAW3xDU,221326 Univariate Distributions   Rug Plots
+UD1Eo3tal-0,221313 Data Visualisation Examples 3
+gU__BW8GaEY,221325 Univariate Distributions
+2HYrVQpMk3c,221313 Data Visualisation Examples 2
+C89FJrRqL6A,221313 Data Visualisation Examples 1
+0bUg7yeWk-0,221269 Lambda function & Pivot tables 3
+gc6HbHl6ez0,221269 Lambda function & Pivot tables 2
+9vBiQUaKqTA,221269 Lambda function & Pivot tables 1
+27Yu5M8859I,221246 Control Structures and Functions Func 3
+MKl1VQuOOEc,221268 Grouping and Summarizing Dataframes 2
+vJLZjeFm0n4,221276 Cleaning Datasets 4
+XAUEYfWQJKI,221246 Control Structures and Functions Func 2
+Y2IUO52_0HE,221268 Grouping and Summarizing Dataframes 1
+6i9Bry2Pf74,221267 Merge and Append 2
+pvIW4qD2eKk,221262 Basic Linear Algebra Operations
+uWYzLzTU1MQ,221261 Operations on Arrays
+KZPc-f8BFUw,221276 Cleaning Datasets 3
+NLG4lsZVmbI,221246 Control Structures and Functions Func 1
+VoSqPqq7G0o,221267 Merge and Append 1
+z2qMfJ3Cy3E,221260 Basic Array Operations
+H2qemIXC_xA,221266 Indexing and Selecting Data 3
+aTxc_6XptDU,Vector dot product and vector length   Vectors and spaces   Linear Algebra
+ypggaRDFowU,221276 Cleaning Datasets 2
+IyEqXvqe2J4,221257 Computation Times in NumPy and Standard Python Lists
+s9a3AmwPAMQ,"The determinant   Essence of linear algebra, chapter 6 Imortant!!!"
+u_eqk7r74FQ,221245 Control Structures and FunctionsComprehensions
+x4_F8J4aksc,"Liner combinations ,Vectors, what even are they chapter 1"
+UfHbQGEMbxw,221276 Cleaning Datasets 1
+PxtSNGB8rX4,221236 Python Basic VII Sets
+ANQZvTSg_74,221245 Control Structures and FunctionsComprehensions 2
+MEF7ztfCAtw,"Linear transformations and matrices   Essence of linear algebra, chapter 3 !!!!!!"
+NFo6YgwH9bc,221266 Indexing and Selecting Data 2
+_XihkBglJ24,221256 Multidimensional Arrays
+IftUFd0nA9A,221275 Reading Data From PDF Files
+XYAnOIuRVyw,"Linear combinations, span, and basis vectors   Essence of linear algebra, chapter 2"
+gTNndc2REwk,"Inverse matrices, column space and null space   Essence of linear algebra, chapter 7"
+I5oXdGKeM0E,Thinking about multivariable functions   contour plots
+egh_PWSYdLI,Idea behind inverting a 2x2 matrix   Matrices   Precalculus   Khan Academy
+9Cpiyga8fTk,"221255 Subset, Slice, Index and Iterate through Arrays"
+ehivzN8IEAQ,The Jacobian matrix   YouTube
+cmwWJhmNsLU,221244 Control Structures and FunctionsLoops
+6LNwHHxdMO8,The Hessian matrix   YouTube
+wb7neqOgs6Y,The graphical relationship between a function & its derivative part 2
+4df1NiQUA-0,221236 Python Basic V List2
+nq2p9UQNv2o,The graphical relationship between a function & its derivative part 1   Khan Academy   YouTube
+wDIxT1e0kDQ,"Partial derivatives, introduction   YouTube"
+OWi9BQEVXFk,221266 Indexing and Selecting Data 1
+RybFEfVapmI,221244 Control Structures and FunctionsLoops 2
+7aS7xmJSk1g,Multivariable chain rule   YouTube
+Td3FSwwasOs,"Dot products and duality   Essence of linear algebra, chapter 9   YouTube"
+1zLiEntjLbw,221274 Getting Data From APIs
+8sMpyzoesSw,Critical points introduction   AP Calculus AB   Khan Academy   YouTube
+X-Tdqf6Gh2A,221254 Structure and Content of Arrays
+KvHm5hg1lNA,Chain rule   Derivative rules   AP Calculus AB   Khan Academy   YouTube
+bcYxDDjGvYI,Calculus  Derivatives 2   Taking derivatives   Differential Calculus   Khan Academy   YouTube
+w4IZFbCuoEs,221265 Pandas Basics 3
+3QDkh_uheLg,Analyzing a function with its derivative   AP Calculus AB   Khan Academy   YouTube
+6KhquXPvy4U,221236 Python Basic IV List
+b4gl9S9c97I,221273 Reading Data From Websites
+eBWZUnjUktM,221253 Creating NumPy Arrays
+cXEcqDOfidg,"221243 Control Structures and FunctionsIf ,Elif ,Else"
+B8sgIoKAp0I,221236 Python Basic III Array
+ay0_ZJsamLA,221236 Python Basic IIStr
+T962f8493dc,221265 Pandas Basics 2
+GmtSwaxroQg,221252 NumPy Basics 3
+ucgJ44HnhVY,221272 Reading Delimited and Relational Databases
+8U7CpEMLVzc,221239 Python Basic VI Dict
+ODmj2q6xwRA,221236 Python Basic I
+INojwGCTCBQ,221252 NumPy Basics 2
+Zlr2601d2JY,221265 Pandas Basics 1
+umrOlLf953o,221235 Introduction to Jupyter Notebook II
+k334a7JDKkU,221235 Introduction to Jupyter Notebook I
+UCMvhggV5g4,221252 NumPy Basics 1
+T8qYDlg7HxQ,221239 Python Basic V Dict
+AHL1UgDPwX4,"111247 Control Structures and FunctionsMap, Filter, and Reduce 3"
+3Q-CPofdtAY,221238 Python Basic VI Touples
+0dVAhQNAICs,"111247 Control Structures and FunctionsMap, Filter, and Reduce 2"
+KHBJeAhUnU0,"111247 Control Structures and FunctionsMap, Filter, and Reduce 1"

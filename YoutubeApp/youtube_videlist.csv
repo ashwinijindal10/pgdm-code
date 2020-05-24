@@ -1,74 +1,99 @@
 id,title,status
+cKGquEBZisQ,328519 co2 Assignment,unlisted
+Hw1mS4uXHNU,328711 2D Gaussian 3,private
+6KtGC31DhFk,328705 Solving Constrained Minimisation Problems 3,private
+FZ3CPUxiZh8,328711 2D Gaussian 1,private
+wQckiwfC63M,328710 Limitations Fitting One Gaussian 3,private
+PrDAS8R9N3k,328705 Solving Constrained Minimisation Problems 1,private
+ZK7AsqZPQoM,328710 Limitations Fitting One Gaussian 1,private
+QEAeRvKXVWA,328715 Working Example with E M for GMMs 2,private
+yODsDML5qfA,328709 Limitations with K Means 3,private
+01JOqg8ENtY,328709 Limitations with K Means 1,private
+pzn4a1r39Ps,328692 Lasso VS Ridge 2,private
+TVPQEVsMRSc,328692 Lasso VS Ridge 1,private
+1KbIvmAdNfs,328691 Trade off Between Error and Regularised Term 3,private
+Kq7RIRNFF6c,328691 Trade off Between Error and Regularised Term 2,private
+t9P_uFhCHN0,328691 Trade off Between Error and Regularised Term 1,private
+P-BxPyf7E4I,328690 Understanding Functions Geometry 3,private
+fODjPOfvgas,328690 Understanding Functions Geometry 2,private
+w0UOljc5_Go,328690 Understanding Functions Geometry 1,private
+kz9IUFdcNqs,328690 Understanding Functions Geometry 1,private
+OnMhgSE4AEQ,328689 Lasso Feature Selection 3,private
+dRyBhgDS3jc,328689 Lasso Feature Selection 2,private
+NrFFwa5Bl_s,328689 Lasso Feature Selection 1,private
+AQL3-nJvX8U,295908 Model Evaluation and Cross Validation,unlisted
+6yJ0k0eNqCg,295856 Nuances of Logistic Regression Variable Transformation II 2,unlisted
+WoINzKuYHNM,295856 Nuances of Logistic Regression Variable Transformation II 3,unlisted
 bOblyHJqUQw,431892 Working of a Neuron 1,unlisted
-3qKZZKkQ0rU,431943 Dropouts The Bayesian Approach 1,private
-8w_xAvLGRdo,431942 Momentum based methods III,private
-trSpyQL-Dio,431941 Momentum based methods II 2,private
-jRYpCED0jXg,431941 Momentum based methods II 1,private
-n-Fmx5u8QJ0,431940 Momentum based methods I 2,private
-lSNDVava2qg,431937 Gradient Descent II 1,private
--xulcCye4uU,431940 Momentum based methods I 1,private
+3qKZZKkQ0rU,431943 Dropouts The Bayesian Approach 1,unlisted
+8w_xAvLGRdo,431942 Momentum based methods III,unlisted
+trSpyQL-Dio,431941 Momentum based methods II 2,unlisted
+jRYpCED0jXg,431941 Momentum based methods II 1,unlisted
+n-Fmx5u8QJ0,431940 Momentum based methods I 2,unlisted
+lSNDVava2qg,431937 Gradient Descent II 1,unlisted
+-xulcCye4uU,431940 Momentum based methods I 1,unlisted
 TNihnNnFeFQ,431945 Initializations 2,private
-c32tMGaeb_k,431936 Gradient Descent I 2,private
-yYRlVzLHo4Y,431939 Gradient Descent IV 2,private
-N4SpvWUq_O0,431945 Initializations 1,private
-RR7gBEDLfhE,431936 Gradient Descent I 1,private
-NdCoOg3-w3Y,431939 Gradient Descent IV 1,private
-mha22jhJMl4,431944 Vanishing and Exploding Gradients 2,private
-Im16Jt3xZX0,431938 Gradient Descent III 2,private
-Y2jsaYDuBXE,431935 Minibatch Gradient Descent 3,private
-Ug2TtuB8FXo,431944 Vanishing and Exploding Gradients 1,private
-ndqoiXe6cZg,431935 Minibatch Gradient Descent 2,private
-oeZXC5hF6ME,431938 Gradient Descent III 1,private
-HrU-KCgysH4,431943 Dropouts The Bayesian Approach 2,private
-zxpAkmrU6eo,431935 Minibatch Gradient Descent 1,private
-3jiqJ8ol9Yc,431937 Gradient Descent II 2,private
-uNyv5dLsQos,431928 Batch Normalization 2,private
-6JcN_n56NKE,431934 Loss Function II 2,private
-jDPG9G3EISQ,431928 Batch Normalization 1,private
-kp6WKYkKt_s,431934 Loss Function II 1,private
-GZG3Z4bJD18,431933 Loss Function I 3,private
-Myvo6WhVV_U,431927 Dropouts 2,private
-57Sz4hUQr5Q,431933 Loss Function I 2,private
-6L9vn7VGTJY,431927 Dropouts 1,private
-XdorLUWYRe8,431922 Training in Batches 2,private
-1pakNcIIgjQ,431933 Loss Function I 1,private
-R9lfGH7rQZE,431926 Regularization 2,private
-kIqilzr4IdU,431926 Regularization 1,private
-BqgLGGt-vZo,431918 Updating the Weights and Biases IV 3,private
-RuvE9jb_xRk,431922 Training in Batches 1,private
-hKim-0h1I20,431918 Updating the Weights and Biases IV 2,private
-QvnwM5iW-V0,431918 Updating the Weights and Biases IV 1,private
-21e8KSorSKs,431921 Batch in Backpropagation 2,private
-ixgv_dBngjY,431916 Updating the Weights and Biases III 2,private
-yylmyEGoecw,431916 Updating the Weights and Biases III 1,private
-mkWwFRKe4Cw,431921 Batch in Backpropagation 1,private
-RQHeoNp2KxM,431897 Activation Functions,private
-RM6ASrkY42M,431915 Updating the Weights and Biases II 2,private
-O6tdwPX33fY,431907 Understanding Vectorized Feedforward Implementation 2,private
-gVfbhRZE-zg,431920 Updating the Weights and Biases VI,private
-bL5XmK9Qjnk,431915 Updating the Weights and Biases II 1,private
-0oPKCXmSrVc,431896 Parameters and Hyperparameters of Neural Networks 3,private
-X4lrvRekBgc,431914 Updating the Weights and Biases I 2,private
-yqKkz60JdHA,431896 Parameters and Hyperparameters of Neural Networks 2,private
-WGNXKVv2WOs,431907 Understanding Vectorized Feedforward Implementation 1,private
-KCZ0tkJVh0k,431919 Updating the Weights and Biases V 2,private
--dnB7MXLLPw,431914 Updating the Weights and Biases I 1,private
-SmM2fKdLKn0,431896 Parameters and Hyperparameters of Neural Networks 1,private
-m_PbmVnEXB8,431906 Vectorized Feedforward Implementation,private
-QcKb6qmLJBQ,431919 Updating the Weights and Biases V 1,private
-cqBR_HpZro4,431912 Complexity of the Loss Function,private
-T67r33g3Ncc,431895 Assumptions made to Simplify Neural Networks,private
-sNeEuMkc3KU,431905 Feedforward Algorithm 2,private
-56gM4FZR2S4,431894 Inputs and Outputs of a Neural Network II 2,private
-FN382rsY35A,431911 What Does Training a Network Mean,private
-XjeEAPXToBc,431894 Inputs and Outputs of a Neural Network II 1,private
-FBSQZZ0qtzM,431905 Feedforward Algorithm 1,private
-JjFAPIaa71g,431893 Inputs and Outputs of a Neural Network I 2,private
-vK3oPNuwCGk,431902 Information Flow Image Recognition,private
-MAs6S4pjcUA,431901 Flow of Information in Neural Networks Between 2 Layers,private
-ROcbRkslHmI,431893 Inputs and Outputs of a Neural Network I 1,private
-IkS62jgEjI4,431892 Working of a Neuron 3,private
-IRnqNlb2Kh4,431892 Working of a Neuron 2,private
+c32tMGaeb_k,431936 Gradient Descent I 2,unlisted
+yYRlVzLHo4Y,431939 Gradient Descent IV 2,unlisted
+N4SpvWUq_O0,431945 Initializations 1,unlisted
+RR7gBEDLfhE,431936 Gradient Descent I 1,unlisted
+NdCoOg3-w3Y,431939 Gradient Descent IV 1,unlisted
+mha22jhJMl4,431944 Vanishing and Exploding Gradients 2,unlisted
+Im16Jt3xZX0,431938 Gradient Descent III 2,unlisted
+Y2jsaYDuBXE,431935 Minibatch Gradient Descent 3,unlisted
+Ug2TtuB8FXo,431944 Vanishing and Exploding Gradients 1,unlisted
+ndqoiXe6cZg,431935 Minibatch Gradient Descent 2,unlisted
+oeZXC5hF6ME,431938 Gradient Descent III 1,unlisted
+HrU-KCgysH4,431943 Dropouts The Bayesian Approach 2,unlisted
+zxpAkmrU6eo,431935 Minibatch Gradient Descent 1,unlisted
+3jiqJ8ol9Yc,431937 Gradient Descent II 2,unlisted
+uNyv5dLsQos,431928 Batch Normalization 2,unlisted
+6JcN_n56NKE,431934 Loss Function II 2,unlisted
+jDPG9G3EISQ,431928 Batch Normalization 1,unlisted
+kp6WKYkKt_s,431934 Loss Function II 1,unlisted
+GZG3Z4bJD18,431933 Loss Function I 3,unlisted
+Myvo6WhVV_U,431927 Dropouts 2,unlisted
+57Sz4hUQr5Q,431933 Loss Function I 2,unlisted
+6L9vn7VGTJY,431927 Dropouts 1,unlisted
+XdorLUWYRe8,431922 Training in Batches 2,unlisted
+1pakNcIIgjQ,431933 Loss Function I 1,unlisted
+R9lfGH7rQZE,431926 Regularization 2,unlisted
+kIqilzr4IdU,431926 Regularization 1,unlisted
+BqgLGGt-vZo,431918 Updating the Weights and Biases IV 3,unlisted
+RuvE9jb_xRk,431922 Training in Batches 1,unlisted
+hKim-0h1I20,431918 Updating the Weights and Biases IV 2,unlisted
+QvnwM5iW-V0,431918 Updating the Weights and Biases IV 1,unlisted
+21e8KSorSKs,431921 Batch in Backpropagation 2,unlisted
+ixgv_dBngjY,431916 Updating the Weights and Biases III 2,unlisted
+yylmyEGoecw,431916 Updating the Weights and Biases III 1,unlisted
+mkWwFRKe4Cw,431921 Batch in Backpropagation 1,unlisted
+RQHeoNp2KxM,431897 Activation Functions,unlisted
+RM6ASrkY42M,431915 Updating the Weights and Biases II 2,unlisted
+O6tdwPX33fY,431907 Understanding Vectorized Feedforward Implementation 2,unlisted
+gVfbhRZE-zg,431920 Updating the Weights and Biases VI,unlisted
+bL5XmK9Qjnk,431915 Updating the Weights and Biases II 1,unlisted
+0oPKCXmSrVc,431896 Parameters and Hyperparameters of Neural Networks 3,unlisted
+X4lrvRekBgc,431914 Updating the Weights and Biases I 2,unlisted
+yqKkz60JdHA,431896 Parameters and Hyperparameters of Neural Networks 2,unlisted
+WGNXKVv2WOs,431907 Understanding Vectorized Feedforward Implementation 1,unlisted
+KCZ0tkJVh0k,431919 Updating the Weights and Biases V 2,unlisted
+-dnB7MXLLPw,431914 Updating the Weights and Biases I 1,unlisted
+SmM2fKdLKn0,431896 Parameters and Hyperparameters of Neural Networks 1,unlisted
+m_PbmVnEXB8,431906 Vectorized Feedforward Implementation,unlisted
+QcKb6qmLJBQ,431919 Updating the Weights and Biases V 1,unlisted
+cqBR_HpZro4,431912 Complexity of the Loss Function,unlisted
+T67r33g3Ncc,431895 Assumptions made to Simplify Neural Networks,unlisted
+sNeEuMkc3KU,431905 Feedforward Algorithm 2,unlisted
+56gM4FZR2S4,431894 Inputs and Outputs of a Neural Network II 2,unlisted
+FN382rsY35A,431911 What Does Training a Network Mean,unlisted
+XjeEAPXToBc,431894 Inputs and Outputs of a Neural Network II 1,unlisted
+FBSQZZ0qtzM,431905 Feedforward Algorithm 1,unlisted
+JjFAPIaa71g,431893 Inputs and Outputs of a Neural Network I 2,unlisted
+vK3oPNuwCGk,431902 Information Flow Image Recognition,unlisted
+MAs6S4pjcUA,431901 Flow of Information in Neural Networks Between 2 Layers,unlisted
+ROcbRkslHmI,431893 Inputs and Outputs of a Neural Network I 1,unlisted
+IkS62jgEjI4,431892 Working of a Neuron 3,unlisted
+IRnqNlb2Kh4,431892 Working of a Neuron 2,unlisted
 7WLW_qdvTN0,431891 Multiclass Classification using Perceptrons,unlisted
 Wlb2xeDXeA8,431890 Perceptrons Training,unlisted
 hjC06E4BN_c,431889 Binary Classification using Perceptron 3,unlisted
@@ -574,7 +599,6 @@ SxN0K_mrxDc,295872 Conditional Probability and Its Intuition 1,unlisted
 5pPZhIWP1fw,295871 Introduction Naive Bayes,unlisted
 e2DSLBHJxoU,295857 Nuances of Logistic Regression Variable Transformation III,unlisted
 QPhTMmkLYUE,295849 Summary,unlisted
-GbCMbtc6Ez8,295856 Nuances of Logistic Regression Variable Transformation II 2,unlisted
 6OA3SUCCqUY,295848 Making Predictions,unlisted
 ni2Z1CH6ug4,295847 Precision and Recall 3,unlisted
 5jANZfK6fZk,295847 Precision and Recall 2,unlisted

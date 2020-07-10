@@ -22,6 +22,8 @@
 - farewell
 - Bye bye
 - have a good one
+- tata
+
 
 ## intent:greet
 - hey
@@ -35,6 +37,7 @@
 - hi
 - hi
 - hello
+- namaste
 
 ## intent:restaurant_search
 - i'm looking for a place to eat

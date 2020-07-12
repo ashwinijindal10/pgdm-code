@@ -1,26 +1,198 @@
 id,title,status
+ArpBRpAHXbg,431640 POS Tagging Using RNN II 1,private
+SMGEmGjs4Zo,431639 POS Tagging Using RNN I 3,private
+FknK92a6Hac,431639 POS Tagging Using RNN I 2,private
+8eEGTCetElo,431639 POS Tagging Using RNN I 1,private
+Qv8pD3x5XeU,431635 GRUs and Other Variants,private
+YjLONljXAYI,431634 LSTM Network Feedforward Equations,private
+a1L3n2dN3D4,431633 Structure of an LSTM Cell 2,private
+nTg3TyDPd0Y,431633 Structure of an LSTM Cell 1,private
+_DSqts9Li1k,431632 Characteristics of an LSTM Cell 2,private
+WDeXCfsrSQo,431632 Characteristics of an LSTM Cell 1,private
+53sGteKuToY,431631 Long Short term Memory Networks 2,private
+9ovXJtNWeVg,431631 Long Short term Memory Networks 1,private
+vJ0juE_QbqE,431630 Bidirectional RNNs 2,private
+VKLjgQMevTE,431630 Bidirectional RNNs 1,private
+uUlHWQO3lDc,431625 Types of RNNs II,private
+DmABKM6pMuE,431624 Training RNNs,private
+EysLY-hF7IA,431623 Types of RNNs I 2,private
+yOk7y_7_U0A,431623 Types of RNNs I 1,private
+WwuHmzbuDGc,431623 Types of RNNs I 1,private
+WsjmDVYnt-k,431621 Feeding Sequences to RNNs 2,private
+tXEh_9d-Oac,431621 Feeding Sequences to RNNs 1,private
+a4zMx8sALw4,431620 Architecture of an RNN,private
+T1nSvdAF-uU,431619 What Makes the Network Recurrent 2,private
+Os5COwMcoVk,431619 What Makes the Network Recurrent 1,private
+LTrjgr1X3iE,431618 What are Sequences 2,private
+nk3JDI2abSw,431618 What are Sequences 1,private
+ymMBeoJbcTk,431714 Visualising Predictions 2,private
+rnuHWAzjByc,431714 Visualising Predictions 1,private
+RoTBwLMz--Y,431709 Summary,private
+yKtiTR3Ysfw,431713 Running the Training Code 2,private
+73pgBiLxynk,431708 Saving Blobs 3,private
+tUUU11c8PbM,431713 Running the Training Code 1,private
+2xDt552mwO0,431708 Saving Blobs 2,private
+_SeLQ7Iyh9A,431712 Preparing Data for Training 2,private
+_bQsXLPES7I,431712 Preparing Data for Training 1,private
+zj84z01kNwc,431708 Saving Blobs 1,private
+N6xPxX_swqE,431707 Tracking Blobs 3,private
+JajWLNhZZjw,431707 Tracking Blobs 2,private
+nF2JrePpoeU,431707 Tracking Blobs 1,private
+lOvLYrIS_gE,431706 Predicting next position of blob 2,private
+XBN_oni-N7c,431706 Predicting next position of blob 1,private
+2XfsgkvzmBM,431705 Tracking pseudo code II 2,private
+TbDjadWXFQY,431705 Tracking pseudo code II 1,private
+TPIjLN22cIA,431704 Tracking pseudo code I 3,private
+JTFipyAAU0I,431704 Tracking pseudo code I 2,private
+6m2scPaZ61Y,431704 Tracking pseudo code I 1,private
+weve_Oihu4g,431700 Blobs and Hulls 3,private
+ffMmQBQss6s,431700 Blobs and Hulls 2,private
+M_7ZTvBwz5I,431700 Blobs and Hulls 1,private
+5PpZaAqVrWU,431699 Image Segmentation using Contours 2,private
+aX7Yc57yqBw,431699 Image Segmentation using Contours 1,unlisted
+58WMXOUV-G8,431698 Pre processing Frames II 2,unlisted
+oO5ZRvYlcPo,431698 Pre processing Frames II 1,unlisted
+D9A1Ge6mzMk,431697 Pre processing Frames I 2,unlisted
+kXfQGB5ZbPo,431697 Pre processing Frames I 1,unlisted
+233wwlbr1bo,431696 Reading Video and Drawing line 3,unlisted
+mIoqD2YgW4s,431696 Reading Video and Drawing line 2,unlisted
+HQJztSXZvlM,431696 Reading Video and Drawing line 1,unlisted
+bTJfzc3Pbxg,431695 Overall Strategy,unlisted
+M-DOVmgMxAs,431694 Examining Data in OpenCV 2,unlisted
+3qSKM6TdZUU,431694 Examining Data in OpenCV 1,unlisted
+vI7uBnKUCdQ,431693 Detecting object in Video 3,unlisted
+lKvXYZAlIF4,431693 Detecting object in Video 2,unlisted
+R54zhRjimbw,431693 Detecting object in Video 1,unlisted
+8P4zOYXe-Mw,431692 Getting Started with OpenCV III 2,unlisted
+9et9u_a-Pfo,431692 Getting Started with OpenCV III 1,unlisted
+Jq7ODsZmt4k,431691 Getting Started with OpenCV II 2,unlisted
+JldawxclnqA,431691 Getting Started with OpenCV II 1,unlisted
+6wcbUtC8w8g,431690 Getting Started with OpenCV I 3,unlisted
+LtoCJIvsE1A,431690 Getting Started with OpenCV I 2,unlisted
+SIKaIwk902c,431690 Getting Started with OpenCV I 1,unlisted
+vckfaxG0nOk,431689 Installing OpenCV 2,unlisted
+KDM61R_Sttw,431689 Installing OpenCV 1,unlisted
+gxAVHRsqqi0,431688 The problem statement,unlisted
+Y33N7_oxLw8,431687 Introduction,unlisted
+8nf4Un4CY4k,431684 CXR Final Run 2,unlisted
+6w9hqnrcP0w,431684 CXR Final Run 1,unlisted
+Qs2V306htv8,431683 CXR Network Building 2,unlisted
+y20HqH9xkfk,431683 CXR Network Building 1,unlisted
+xoc4YcjKl_c,431682 CXR Data Preprocessing Normalisation,unlisted
+9OBUGrrEV-g,431681 CXR Data Preprocessing Augmentation,unlisted
+Aky9JEXzFh8,431680 Examining Xray images 2,unlisted
+RNCq7_NNxJM,431680 Examining Xray images 1,unlisted
+ROuYCcsy5Ck,431676 Training and Evaluating the Model 2,unlisted
+M7u93y9jb4g,431676 Training and Evaluating the Model 1,unlisted
+hMj6HdkR1GQ,431675 Hyperparameter Tuning 2,unlisted
+81CTVCKskdo,431675 Hyperparameter Tuning 1,unlisted
+oW1UXFRlV4I,431674 Ablation Experiments 2,unlisted
+oy7d8HKRH58,431674 Ablation Experiments 1,unlisted
+Tptm2xxmZYo,431673 Building the Network 2,unlisted
+b18jc5H5urU,431673 Building the Network 1,unlisted
+JRiaJT7vFFs,431670 Data Preprocessing Augmentation 2,unlisted
+E6IrwrLdvIo,431670 Data Preprocessing Augmentation 1,unlisted
+K2pYOL7ULiU,431669 Data Preprocessing Normalisation,unlisted
+DILfyeVY-RY,431667 Data Preprocessing Shape Size and Form 3,unlisted
+CNpHBCH0kSY,431667 Data Preprocessing Shape Size and Form 2,unlisted
+aRR0Gt0JRkQ,431667 Data Preprocessing Shape Size and Form 1,unlisted
+KgibXMC1Jwg,431666 Examining the Flowers Dataset 2,unlisted
+8NO3-Wtsq68,431666 Examining the Flowers Dataset 1,unlisted
+nBMIVvBZbXo,431665 Introduction,unlisted
+TI95OBhq_hI,431778 Loss Function 2,unlisted
+ZP0KmbvhlqQ,431778 Loss Function 1,unlisted
+IGL_lhbfVOM,431777 Style Loss and the Gram Matrix 3,unlisted
+Q_OWyyPpNL4,431777 Style Loss and the Gram Matrix 2,unlisted
+_lKfSXtXinQ,431777 Style Loss and the Gram Matrix 1,unlisted
+rQIrxNM4wUQ,431776 Introduction to Style Transfer 2,unlisted
+xskR5HS3BTI,431776 Introduction to Style Transfer 1,unlisted
+xh6CNCiun2E,431772 An Analysis of Deep Learning Models II,unlisted
+sf-ni49yVWg,431771 An Analysis of Deep Learning Models I 2,unlisted
+l-urK6I7GNA,431771 An Analysis of Deep Learning Models I 1,unlisted
+e2hSPn-LMVE,431770 Transfer Learning in Python,unlisted
+n7NHBjrVUbE,431769 Practical Implementation of Transfer Learning 2,unlisted
+QnwIBv-V6rY,431769 Practical Implementation of Transfer Learning 1,unlisted
+8fMFPVKDzb8,431768 Transfer Learning With Pre Trained CNNs 2,unlisted
+PdWzMEpD44M,431768 Transfer Learning With Pre Trained CNNs 1,unlisted
+Zb-bKOCZiFY,431767 Use Cases of Transfer Learning 2,unlisted
+Ep5_uyBobSQ,431767 Use Cases of Transfer Learning 1,unlisted
+JBOFg2-zERQ,431766 Introduction to Transfer Learning 2,unlisted
+nPtoJOiiaEo,431766 Introduction to Transfer Learning 1,unlisted
+fl55Pbq_YYM,431765 Residual Net 2,unlisted
+EHp07yL9Ibo,431765 Residual Net 1,unlisted
+7R5knS2HsMs,431764 GoogleNet,unlisted
+C2TigaXIStY,431763 AlexNet and VGGNet,unlisted
+oQntUwA8VMc,431762 Overview of CNN Architectures,unlisted
+5RzYnVwRRko,431758 CIFAR 10 Classification with Python III 2,unlisted
+6NePR51sRNM,431758 CIFAR 10 Classification with Python III 1,unlisted
+CQM2Ml14Elc,431757 CIFAR 10 Classification with Python II,unlisted
+q-x203AmQ3w,431756 CIFAR 10 Classification with Python I,unlisted
+U0LPuQUjohU,431750 Putting the Components Together 2,unlisted
+6WRBLFzOs9c,431750 Putting the Components Together 1,unlisted
+WY4J5u8J7rc,431749 Pooling 2,unlisted
+p2a0tY48lVM,431749 Pooling 1,unlisted
+NmA3kdh5V-M,431748 Feature Maps,unlisted
+TFfClYFeZLU,431747 Weights of a CNN,unlisted
+j8_Ux8Ig7jQ,431746 Important Formulas,unlisted
+xwvqEQhvYKc,431745 Stride and Padding 2,unlisted
+PbOEOmnMIok,431745 Stride and Padding 1,unlisted
+X1xTt3-bw7A,431744 Understanding Convolutions II,unlisted
+D_Cu0jcXs5w,431743 Understanding Convolutions I,unlisted
+LsyG9yzp2IE,431742 Video Analysis,unlisted
+I47xZWeZLLg,431741 Reading Digital Images 3,unlisted
+Kyh7A5cDWYo,431741 Reading Digital Images 2,unlisted
+0s2mTcYWE_8,431741 Reading Digital Images 1,unlisted
+UE7iKcORkgo,431740 Introduction to CNNs,unlisted
+3SlhHcGj_aE,431739 Understanding the Visual System of Mammals II 2,unlisted
+L932C16CTLk,431739 Understanding the Visual System of Mammals II 1,unlisted
+jHHOejBzgSw,431738 Understanding the Visual System of Mammals I,unlisted
+hC_2GudjD3s,431737 Applications of CNNs 2,unlisted
+Amv53p5UJnc,431737 Applications of CNNs 1,unlisted
+yA4XEHMrk5w,431736 A Specialised Architecture for Visual Data old,unlisted
+v4YorNw4hSQ,Surya Namaskar   54 Rounds,unlisted
+jBOpjjKv-8w,surya namastkar 10 rounds,unlisted
+zrgucJ6dohA,30 min core all body,unlisted
+zzkNFTiEz-A,hath yoga session,unlisted
+EbgwnRbkpNk,yoga weight lossvinyas,unlisted
+nEBwPLpEBOM,English Yoga Session on Flexibility and Stretching,unlisted
+IHVqudbGya4,Yoga for Digestion & Gut Health Session1,unlisted
+slizJFFzHHY,Yoga for Digestion & Gut Health Session2,unlisted
+fOzJuoYKFSw,yoga for lower back session 1,unlisted
+yqJfjXrcwis,yoga for lower back session 2,unlisted
+E5ayzVW5BqM,yoga for lower back session 3,unlisted
+Y-Cfq7Za-YY,Learn Handstand Push Ups Exercises   Session 1,unlisted
+TD9hYQ6j8b0,Learn Handstand Push Ups Exercises   Session 2,unlisted
+ZKowCI7Yq1s,Best Yoga for Stress Relief and Relaxation   Session 1,unlisted
+6Mrh0-KCFa4,Best Yoga for Stress Relief and Relaxation   Session 2,unlisted
+JjPJgXVUUgM,Best Yoga for Stress Relief and Relaxation   Session 3,unlisted
+vWsDpiy6A0U,383544 Assignment Solution,unlisted
+C2npaE2zRNI,328668 Practical Considerations and Alternatives 2,unlisted
+Cb7LR4TmqR0,328661 Singular Value Decomposition 4,unlisted
+cd0I-qLDC_A,328656 Building Blocks of PCA Basis Transformation 4,unlisted
+cgqqFVRxEJs,328525 Maximal Margin Classifier 3,unlisted
+xOMVtSsV1VI,328525 Maximal Margin Classifier 0,unlisted
 cKGquEBZisQ,328519 co2 Assignment,unlisted
-Hw1mS4uXHNU,328711 2D Gaussian 3,private
-6KtGC31DhFk,328705 Solving Constrained Minimisation Problems 3,private
-FZ3CPUxiZh8,328711 2D Gaussian 1,private
-wQckiwfC63M,328710 Limitations Fitting One Gaussian 3,private
-PrDAS8R9N3k,328705 Solving Constrained Minimisation Problems 1,private
-ZK7AsqZPQoM,328710 Limitations Fitting One Gaussian 1,private
-QEAeRvKXVWA,328715 Working Example with E M for GMMs 2,private
-yODsDML5qfA,328709 Limitations with K Means 3,private
-01JOqg8ENtY,328709 Limitations with K Means 1,private
-pzn4a1r39Ps,328692 Lasso VS Ridge 2,private
-TVPQEVsMRSc,328692 Lasso VS Ridge 1,private
-1KbIvmAdNfs,328691 Trade off Between Error and Regularised Term 3,private
-Kq7RIRNFF6c,328691 Trade off Between Error and Regularised Term 2,private
-t9P_uFhCHN0,328691 Trade off Between Error and Regularised Term 1,private
-P-BxPyf7E4I,328690 Understanding Functions Geometry 3,private
-fODjPOfvgas,328690 Understanding Functions Geometry 2,private
-w0UOljc5_Go,328690 Understanding Functions Geometry 1,private
-kz9IUFdcNqs,328690 Understanding Functions Geometry 1,private
-OnMhgSE4AEQ,328689 Lasso Feature Selection 3,private
-dRyBhgDS3jc,328689 Lasso Feature Selection 2,private
-NrFFwa5Bl_s,328689 Lasso Feature Selection 1,private
+Hw1mS4uXHNU,328711 2D Gaussian 3,unlisted
+6KtGC31DhFk,328705 Solving Constrained Minimisation Problems 3,unlisted
+FZ3CPUxiZh8,328711 2D Gaussian 1,unlisted
+wQckiwfC63M,328710 Limitations Fitting One Gaussian 3,unlisted
+PrDAS8R9N3k,328705 Solving Constrained Minimisation Problems 1,unlisted
+ZK7AsqZPQoM,328710 Limitations Fitting One Gaussian 1,unlisted
+QEAeRvKXVWA,328715 Working Example with E M for GMMs 2,unlisted
+yODsDML5qfA,328709 Limitations with K Means 3,unlisted
+01JOqg8ENtY,328709 Limitations with K Means 1,unlisted
+pzn4a1r39Ps,328692 Lasso VS Ridge 2,unlisted
+TVPQEVsMRSc,328692 Lasso VS Ridge 1,unlisted
+1KbIvmAdNfs,328691 Trade off Between Error and Regularised Term 3,unlisted
+Kq7RIRNFF6c,328691 Trade off Between Error and Regularised Term 2,unlisted
+t9P_uFhCHN0,328691 Trade off Between Error and Regularised Term 1,unlisted
+P-BxPyf7E4I,328690 Understanding Functions Geometry 3,unlisted
+fODjPOfvgas,328690 Understanding Functions Geometry 2,unlisted
+w0UOljc5_Go,328690 Understanding Functions Geometry 1,unlisted
+kz9IUFdcNqs,328690 Understanding Functions Geometry 1,unlisted
+OnMhgSE4AEQ,328689 Lasso Feature Selection 3,unlisted
+dRyBhgDS3jc,328689 Lasso Feature Selection 2,unlisted
+NrFFwa5Bl_s,328689 Lasso Feature Selection 1,unlisted
 AQL3-nJvX8U,295908 Model Evaluation and Cross Validation,unlisted
 6yJ0k0eNqCg,295856 Nuances of Logistic Regression Variable Transformation II 2,unlisted
 WoINzKuYHNM,295856 Nuances of Logistic Regression Variable Transformation II 3,unlisted
@@ -32,7 +204,7 @@ jRYpCED0jXg,431941 Momentum based methods II 1,unlisted
 n-Fmx5u8QJ0,431940 Momentum based methods I 2,unlisted
 lSNDVava2qg,431937 Gradient Descent II 1,unlisted
 -xulcCye4uU,431940 Momentum based methods I 1,unlisted
-TNihnNnFeFQ,431945 Initializations 2,private
+TNihnNnFeFQ,431945 Initializations 2,unlisted
 c32tMGaeb_k,431936 Gradient Descent I 2,unlisted
 yYRlVzLHo4Y,431939 Gradient Descent IV 2,unlisted
 N4SpvWUq_O0,431945 Initializations 1,unlisted

@@ -1,54 +1,107 @@
 id,title,status
-ArpBRpAHXbg,431640 POS Tagging Using RNN II 1,private
-SMGEmGjs4Zo,431639 POS Tagging Using RNN I 3,private
-FknK92a6Hac,431639 POS Tagging Using RNN I 2,private
-8eEGTCetElo,431639 POS Tagging Using RNN I 1,private
-Qv8pD3x5XeU,431635 GRUs and Other Variants,private
-YjLONljXAYI,431634 LSTM Network Feedforward Equations,private
-a1L3n2dN3D4,431633 Structure of an LSTM Cell 2,private
-nTg3TyDPd0Y,431633 Structure of an LSTM Cell 1,private
-_DSqts9Li1k,431632 Characteristics of an LSTM Cell 2,private
-WDeXCfsrSQo,431632 Characteristics of an LSTM Cell 1,private
-53sGteKuToY,431631 Long Short term Memory Networks 2,private
-9ovXJtNWeVg,431631 Long Short term Memory Networks 1,private
-vJ0juE_QbqE,431630 Bidirectional RNNs 2,private
-VKLjgQMevTE,431630 Bidirectional RNNs 1,private
-uUlHWQO3lDc,431625 Types of RNNs II,private
-DmABKM6pMuE,431624 Training RNNs,private
-EysLY-hF7IA,431623 Types of RNNs I 2,private
-yOk7y_7_U0A,431623 Types of RNNs I 1,private
-WwuHmzbuDGc,431623 Types of RNNs I 1,private
-WsjmDVYnt-k,431621 Feeding Sequences to RNNs 2,private
-tXEh_9d-Oac,431621 Feeding Sequences to RNNs 1,private
-a4zMx8sALw4,431620 Architecture of an RNN,private
-T1nSvdAF-uU,431619 What Makes the Network Recurrent 2,private
-Os5COwMcoVk,431619 What Makes the Network Recurrent 1,private
-LTrjgr1X3iE,431618 What are Sequences 2,private
-nk3JDI2abSw,431618 What are Sequences 1,private
-ymMBeoJbcTk,431714 Visualising Predictions 2,private
-rnuHWAzjByc,431714 Visualising Predictions 1,private
-RoTBwLMz--Y,431709 Summary,private
-yKtiTR3Ysfw,431713 Running the Training Code 2,private
-73pgBiLxynk,431708 Saving Blobs 3,private
-tUUU11c8PbM,431713 Running the Training Code 1,private
-2xDt552mwO0,431708 Saving Blobs 2,private
-_SeLQ7Iyh9A,431712 Preparing Data for Training 2,private
-_bQsXLPES7I,431712 Preparing Data for Training 1,private
-zj84z01kNwc,431708 Saving Blobs 1,private
-N6xPxX_swqE,431707 Tracking Blobs 3,private
-JajWLNhZZjw,431707 Tracking Blobs 2,private
-nF2JrePpoeU,431707 Tracking Blobs 1,private
-lOvLYrIS_gE,431706 Predicting next position of blob 2,private
-XBN_oni-N7c,431706 Predicting next position of blob 1,private
-2XfsgkvzmBM,431705 Tracking pseudo code II 2,private
-TbDjadWXFQY,431705 Tracking pseudo code II 1,private
-TPIjLN22cIA,431704 Tracking pseudo code I 3,private
-JTFipyAAU0I,431704 Tracking pseudo code I 2,private
-6m2scPaZ61Y,431704 Tracking pseudo code I 1,private
-weve_Oihu4g,431700 Blobs and Hulls 3,private
-ffMmQBQss6s,431700 Blobs and Hulls 2,private
-M_7ZTvBwz5I,431700 Blobs and Hulls 1,private
-5PpZaAqVrWU,431699 Image Segmentation using Contours 2,private
+B5W-BVy7Xlc,431781 Object Detection II,unlisted
+mmEbeQE6p6o,431780 Object Detection I,unlisted
+-0vk8E7oLGA,431779 Style Transfer Notebook 2,unlisted
+O4IkmABl7us,431779 Style Transfer Notebook 1,unlisted
+3BDjlOsm1E4,431606 Starter Code Walkthrough 3,unlisted
+vSlmtN4wlko,431606 Starter Code Walkthrough 2,unlisted
+Ug1ffw6Cv3A,431606 Starter Code Walkthrough 1,unlisted
+gaWTU4OAYqc,431605 Understanding Generators,unlisted
+alEUUvYTWfM,431604 Two Architectures 3D Convs and CNN RNN Stack 2,unlisted
+9ApVB9ovbiM,431604 Two Architectures 3D Convs and CNN RNN Stack 1,unlisted
+C5PStAPGktY,431603 Problem Statement 3,unlisted
+bjg7Yv8nyhQ,431603 Problem Statement 2,unlisted
+H7DT8c8XmyQ,431603 Problem Statement 1,unlisted
+61M76fr-RjI,431664 Word Embeddings 2,unlisted
+Dg103uJDurE,431664 Word Embeddings 1,unlisted
+JD3HjORJyqg,431663 Vanishing and Exploding Gradients 2,unlisted
+svS0bK6ythg,431663 Vanishing and Exploding Gradients 1,unlisted
+PJXcFvNeJD0,431662 Backpropagation Through Time BPTT 3,unlisted
+0Xzjm9YY8sI,431662 Backpropagation Through Time BPTT 2,unlisted
+eh7AMGS32jU,431662 Backpropagation Through Time BPTT 1,unlisted
+Fe4OPeU5Pxk,431661 Feedforward Operation in RNNs,unlisted
+jNUUIffHCJ4,431658 Summary,unlisted
+c87bJxPaHr8,431657 Train the model 2,unlisted
+mdi7mN_FDkQ,431657 Train the model 1,unlisted
+XeFTjeuqenU,431656 1D Convolution and RNN 2,unlisted
+Jchb6pq04MI,431656 1D Convolution and RNN 1,unlisted
+N0rOCjlRBaY,431655 Preparing Sequences,unlisted
+I0iyvSK1q8c,431654 Preprocessing the Data 3,unlisted
+24O0ehzeZuE,431654 Preprocessing the Data 3,unlisted
+Jx2AHqb-284,431654 Preprocessing the Data 2,unlisted
+osZo91oZABM,431654 Preprocessing the Data 1,unlisted
+0DOwc1iNXKI,431653 Preparing Data 3,unlisted
+33GVtB2X6og,431653 Preparing Data 2,unlisted
+5qHFY9gj5Xc,431653 Preparing Data 1,unlisted
+HlCU_RGiK2A,431652 Understanding the Problem Statement 3,unlisted
+GOfMz7xRHiY,431652 Understanding the Problem Statement 2,unlisted
+1ivsLzrko9c,431652 Understanding the Problem Statement 1,unlisted
+GPDNqSS6SY4,431646 Generating C Code III 2,unlisted
+IjN1g_OMco8,431646 Generating C Code III 1,unlisted
+_x4zDyWVtt0,431645 Generating C Code II 3,unlisted
+Zlt_IiITcP8,431645 Generating C Code II 2,unlisted
+iQZffiLZHQ8,431645 Generating C Code II 1,unlisted
+vhSNL-17Ntg,431644 Generating C Code I 2,unlisted
+LCpotUdarMA,431644 Generating C Code I 1,unlisted
+IFYfxIrkfVs,431643 POS Tagging Using RNN V,unlisted
+5FvWxk6YWWY,431642 POS Tagging Using RNN IV 3,unlisted
+53K6uYr4bJ4,431642 POS Tagging Using RNN IV 2,unlisted
+RTvSMW8Q9KU,431642 POS Tagging Using RNN IV 1,unlisted
+QQjEU-bMek8,431641 POS Tagging Using RNN III 3,unlisted
+x6T2KHfy67Y,431641 POS Tagging Using RNN III 2,unlisted
+sAqTwv6m3tY,431641 POS Tagging Using RNN III 1,unlisted
+dR8rcvfPO28,431640 POS Tagging Using RNN II 3,unlisted
+74GdYzAsNww,431640 POS Tagging Using RNN II 2,unlisted
+ArpBRpAHXbg,431640 POS Tagging Using RNN II 1,unlisted
+SMGEmGjs4Zo,431639 POS Tagging Using RNN I 3,unlisted
+FknK92a6Hac,431639 POS Tagging Using RNN I 2,unlisted
+8eEGTCetElo,431639 POS Tagging Using RNN I 1,unlisted
+Qv8pD3x5XeU,431635 GRUs and Other Variants,unlisted
+YjLONljXAYI,431634 LSTM Network Feedforward Equations,unlisted
+a1L3n2dN3D4,431633 Structure of an LSTM Cell 2,unlisted
+nTg3TyDPd0Y,431633 Structure of an LSTM Cell 1,unlisted
+_DSqts9Li1k,431632 Characteristics of an LSTM Cell 2,unlisted
+WDeXCfsrSQo,431632 Characteristics of an LSTM Cell 1,unlisted
+53sGteKuToY,431631 Long Short term Memory Networks 2,unlisted
+9ovXJtNWeVg,431631 Long Short term Memory Networks 1,unlisted
+vJ0juE_QbqE,431630 Bidirectional RNNs 2,unlisted
+VKLjgQMevTE,431630 Bidirectional RNNs 1,unlisted
+uUlHWQO3lDc,431625 Types of RNNs II,unlisted
+DmABKM6pMuE,431624 Training RNNs,unlisted
+EysLY-hF7IA,431623 Types of RNNs I 2,unlisted
+yOk7y_7_U0A,431623 Types of RNNs I 1,unlisted
+WwuHmzbuDGc,431623 Types of RNNs I 1,unlisted
+WsjmDVYnt-k,431621 Feeding Sequences to RNNs 2,unlisted
+tXEh_9d-Oac,431621 Feeding Sequences to RNNs 1,unlisted
+a4zMx8sALw4,431620 Architecture of an RNN,unlisted
+T1nSvdAF-uU,431619 What Makes the Network Recurrent 2,unlisted
+Os5COwMcoVk,431619 What Makes the Network Recurrent 1,unlisted
+LTrjgr1X3iE,431618 What are Sequences 2,unlisted
+nk3JDI2abSw,431618 What are Sequences 1,unlisted
+ymMBeoJbcTk,431714 Visualising Predictions 2,unlisted
+rnuHWAzjByc,431714 Visualising Predictions 1,unlisted
+RoTBwLMz--Y,431709 Summary,unlisted
+yKtiTR3Ysfw,431713 Running the Training Code 2,unlisted
+73pgBiLxynk,431708 Saving Blobs 3,unlisted
+tUUU11c8PbM,431713 Running the Training Code 1,unlisted
+2xDt552mwO0,431708 Saving Blobs 2,unlisted
+_SeLQ7Iyh9A,431712 Preparing Data for Training 2,unlisted
+_bQsXLPES7I,431712 Preparing Data for Training 1,unlisted
+zj84z01kNwc,431708 Saving Blobs 1,unlisted
+N6xPxX_swqE,431707 Tracking Blobs 3,unlisted
+JajWLNhZZjw,431707 Tracking Blobs 2,unlisted
+nF2JrePpoeU,431707 Tracking Blobs 1,unlisted
+lOvLYrIS_gE,431706 Predicting next position of blob 2,unlisted
+XBN_oni-N7c,431706 Predicting next position of blob 1,unlisted
+2XfsgkvzmBM,431705 Tracking pseudo code II 2,unlisted
+TbDjadWXFQY,431705 Tracking pseudo code II 1,unlisted
+TPIjLN22cIA,431704 Tracking pseudo code I 3,unlisted
+JTFipyAAU0I,431704 Tracking pseudo code I 2,unlisted
+6m2scPaZ61Y,431704 Tracking pseudo code I 1,unlisted
+weve_Oihu4g,431700 Blobs and Hulls 3,unlisted
+ffMmQBQss6s,431700 Blobs and Hulls 2,unlisted
+M_7ZTvBwz5I,431700 Blobs and Hulls 1,unlisted
+5PpZaAqVrWU,431699 Image Segmentation using Contours 2,unlisted
 aX7Yc57yqBw,431699 Image Segmentation using Contours 1,unlisted
 58WMXOUV-G8,431698 Pre processing Frames II 2,unlisted
 oO5ZRvYlcPo,431698 Pre processing Frames II 1,unlisted

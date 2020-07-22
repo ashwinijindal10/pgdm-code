@@ -1,0 +1,10 @@
+
+
+https://www.the-scientist.com/foundations/the-first-x-ray-1895-42279
+
+
+
+Notes
+https://docs.floydhub.com/guides/environments/
+keras2.2.2
+tf1.10.0

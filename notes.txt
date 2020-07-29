@@ -1,0 +1,8 @@
+probability = Number of ways it can happen / Total number of outcomes = 1/6
+---------The Basic Counting Principle---------------
+When there are m ways to do one thing,
+and n ways to do another,
+then there are m×n ways of doing both.
+
+https://www.mathsisfun.com/combinatorics/combinations-permutations.html
+

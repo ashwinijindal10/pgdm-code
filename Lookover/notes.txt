@@ -1,0 +1,45 @@
+https://www.learnopencv.com/hand-keypoint-detection-using-deep-learning-and-opencv/
+
+finger
+https://dev.to/amarlearning/finger-detection-and-tracking-using-opencv-and-python-586m
+
+#hand written recognization 
+
+https://github.com/amarlearning/digit-recognition-opencv-cnn
+
+
+https://www.pyimagesearch.com/2019/12/16/training-a-custom-dlib-shape-predictor/
+
+http://www.robots.ox.ac.uk/~vgg/software/hands/index.html
+
+lower = np.array([0, 10, 60], dtype = "uint8") 
+ upper = np.array([20, 150, 255], dtype = "uint8")
+
+Grabcut
+
+
+https://github.com/michaelnation26/hand_lights
+
+
+
+https://github.com/SouravJohar//handy
+
+https://www.youtube.com/watch?v=Y6oLbRKwmPk
+https://github.com/InderPabla/HandGestureDetection
+
+https://github.com/SouravJohar/Gesture-Recognition/tree/master/SRC
+
+
+main models 
+
+https://github.com/CMU-Perceptual-Computing-Lab/openpose
+https://www.raaj.tech/
+
+
+https://github.com/augmentedstartups/YOLOv4-Tutorials
+
+
+Hand posture dataset used openpose(https://medium.com/@apofeniaco/training-a-hand-detector-like-the-openpose-one-in-tensorflow-45c5177d6679)
+http://domedb.perception.cs.cmu.edu/handdb.html
+https://github.com/ildoonet/tf-pose-estimation
+https://github.com/ortegatron/hand_detector_train

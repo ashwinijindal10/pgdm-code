@@ -1,3 +1,4 @@
+https://robu.in/
 https://www.learnopencv.com/hand-keypoint-detection-using-deep-learning-and-opencv/
 
 finger
@@ -43,3 +44,40 @@ Hand posture dataset used openpose(https://medium.com/@apofeniaco/training-a-han
 http://domedb.perception.cs.cmu.edu/handdb.html
 https://github.com/ildoonet/tf-pose-estimation
 https://github.com/ortegatron/hand_detector_train
+
+
+dataset hand rec. challenger
+https://imperialcollegelondon.app.box.com/v/hands2017
+
+other dataset
+https://handtracker.mpi-inf.mpg.de/projects/GANeratedHands/GANeratedDataset.htm
+
+https://www.google.com/search?q=dataset+for+human+palm&sxsrf=ALeKk01UH9KQnoIzdlKUpgdw4mp2OIdgjw:1596523367816&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi0htuB-YDrAhVYxzgGHTMhC-gQ_AUoAXoECAsQAw&biw=1366&bih=657#imgrc=Hx3fSnE1o0UTJM&imgdii=CtwYSCWQyS__KM
+
+
+another dataset
+http://www.rovit.ua.es/dataset/mhpdataset/#citation
+https://www.kaggle.com/kmader/multiview-hand-pose
+
+
+
+--new models
+https://github.com/FORTH-ModelBasedTracker/MonocularRGB_3D_Handpose_WACV18
+https://www.youtube.com/watch?v=VoWAmtga9fg
+
+
+competetion
+
+https://paperswithcode.com/task/hand-pose-estimation/codeless
+
+
+
+detection blog
+https://medium.com/@apofeniaco/into-the-problem-of-hand-recognition-da30797450fe
+http://vision.soic.indiana.edu/projects/egohands/
+
+https://medium.com/@drewgillson/alphabot-a-screen-less-interactive-spelling-primer-powered-by-computer-vision-cc1095bce90a
+https://github.com/amirhossein-ahmadian/airydraw
+
+airdraw
+https://github.com/amirhossein-ahmadian/airydraw

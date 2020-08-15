@@ -6,3 +6,6 @@ then there are m×n ways of doing both.
 
 https://www.mathsisfun.com/combinatorics/combinations-permutations.html
 
+
+photo generator
+https://deepdreamgenerator.com/generator

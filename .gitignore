@@ -1,3 +1,4 @@
 .ipynb_checkpoints
 /client_secret.json
 /YoutubeApp/*.json
+/Lookover/hand/pose_iter_102000.caffemodel

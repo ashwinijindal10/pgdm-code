@@ -9,3 +9,8 @@ https://www.mathsisfun.com/combinatorics/combinations-permutations.html
 
 photo generator
 https://deepdreamgenerator.com/generator
+
+
+https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/
+https://becominghuman.ai/real-time-finger-detection-1e18fea0d1d4
+https://medium.com/@apofeniaco/training-a-hand-detector-like-the-openpose-one-in-tensorflow-45c5177d6679
